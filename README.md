@@ -18,6 +18,11 @@
 
 For my blog, visit here: https://bushidotoken.net
 
+## 🎙 Talks:
+
+- conINT 2020
+- BeerCon2: Rise of the Rookie
+
 ## 🌎 Other: 
 
 When I'm not working I am usually [hunting phishing pages](https://twitter.com/search?q=from%3A%40BushidoToken%20phishing&src=typed_query&f=live).
