@@ -26,6 +26,8 @@ For my blog, visit here: https://bushidotoken.net
 ## 🌎 Other: 
 
 When I'm not working I am usually [hunting phishing pages](https://twitter.com/search?q=from%3A%40BushidoToken%20phishing&src=typed_query&f=live).
+
+- [BugCrowd](https://bugcrowd.com/BushidoToken)
   
 ## 📫 How to reach me:
 
