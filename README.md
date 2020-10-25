@@ -20,7 +20,7 @@ For my blog, visit here: https://bushidotoken.net
 
 ## 🎙 Talks:
 
-- [conINT 2020 - 'Using Cyber Threat Intelligence to Defend against Ransomware'](https://github.com/BushidoUK/BushidoUK/blob/master/conINT2020%20FINAL.pdf)
+- [conINT 2020 - 'Using Cyber Threat Intelligence to Defend against Ransomware'](https://www.youtube.com/watch?v=QLz_6ghgNXA)
 - BeerCon2: Rise of the Rookie
 
 ## 🌎 Other: 
