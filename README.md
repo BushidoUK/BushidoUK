@@ -21,7 +21,7 @@ For my blog, visit here: https://bushidotoken.net
 ## 🎙 Talks:
 
 - [conINT 2020 - 'Using Cyber Threat Intelligence to Defend against Ransomware'](https://www.youtube.com/watch?v=QLz_6ghgNXA)
-- BeerCon2: Rise of the Rookie
+- [BeerCon2: Rise of the Rookie](https://www.youtube.com/watch?v=REVItTHz2-c)
 
 ## 🌎 Other: 
 
