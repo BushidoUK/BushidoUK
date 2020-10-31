@@ -20,8 +20,6 @@ For my blog, visit here: https://bushidotoken.net
 
 ## 🎙 Talks:
 
-![conintbadge](https://github.com/BushidoUK/BushidoUK/blob/master/conintbadge.jpg)
-
 - [conINT 2020 - 'Using Cyber Threat Intelligence to Defend against Ransomware'](https://www.youtube.com/watch?v=QLz_6ghgNXA)
 
 - [BeerCon2 - 'Gone Phishin' / Attack of the phish (something something phishing)'](https://www.youtube.com/watch?v=REVItTHz2-c)
@@ -32,10 +30,14 @@ For my blog, visit here: https://bushidotoken.net
 
 - [Hunting Phishing Pages](https://twitter.com/search?q=from%3A%40BushidoToken%20phishing&src=typed_query&f=live)
 
-![tracelabs](https://github.com/BushidoUK/BushidoUK/blob/master/tracelabs.jpg)
-  
 ## 📫 How to reach me:
 
 [@BushidoToken on Twitter](https://twitter.com/BushidoToken) or will@bushidotoken.net
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BushidoUK&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+## 🏆 Badges:
+
+![conintbadge](https://github.com/BushidoUK/BushidoUK/blob/master/conintbadge.jpg)
+
+![tracelabs](https://github.com/BushidoUK/BushidoUK/blob/master/tracelabs.jpg)
