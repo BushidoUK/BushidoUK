@@ -31,6 +31,8 @@ For my blog, visit here: https://bushidotoken.net
 - [BugCrowd](https://bugcrowd.com/BushidoToken)
 
 - [Hunting Phishing Pages](https://twitter.com/search?q=from%3A%40BushidoToken%20phishing&src=typed_query&f=live)
+
+![tracelabs](https://github.com/BushidoUK/BushidoUK/blob/master/tracelabs.jpg)
   
 ## 📫 How to reach me:
 
