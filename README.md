@@ -12,7 +12,6 @@
 - [Exploring APT campaigns](https://github.com/BushidoUK/Exploring-APT-campaigns)
 - [The Insider Threat CTFs](https://github.com/BushidoUK/The-Insider-Threat-CTF)
 - [Malware Zoo](https://github.com/BushidoUK/Malware-Zoo/blob/main/Need-to-know%20malware.csv)
-- [Collecting Phishing Kits](https://github.com/BushidoUK/Phishing-Kits)
 - [Tracking Phishing Campaigns](https://pastebin.com/u/BUSHIDOTOKEN)
 
 ## 📝 Blog: 
