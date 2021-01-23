@@ -13,7 +13,7 @@
 - [The Insider Threat CTFs](https://github.com/BushidoUK/The-Insider-Threat-CTF)
 - [Malware Zoo](https://github.com/BushidoUK/Malware-Zoo/blob/main/Need-to-know%20malware.csv)
 - [Collecting Phishing Kits](https://github.com/BushidoUK/Phishing-Kits)
-- [Doing Security Research](https://pastebin.com/u/BUSHIDOTOKEN)
+- [Tracking Phishing Campaigns](https://pastebin.com/u/BUSHIDOTOKEN)
 
 ## 📝 Blog: 
 
