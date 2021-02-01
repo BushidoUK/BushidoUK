@@ -13,7 +13,7 @@
 - [The Insider Threat CTFs](https://github.com/BushidoUK/The-Insider-Threat-CTF)
 - [Malware Zoo](https://github.com/BushidoUK/Malware-Zoo/blob/main/Need-to-know%20malware.csv)
 - [Tracking Phishing Campaigns](https://pastebin.com/u/BUSHIDOTOKEN)
-- [OSINT Search Operators](https://github.com/BushidoUK/)
+- [OSINT Search Operators](https://github.com/BushidoUK/OSINT-SearchOperators)
 
 ## 📝 Blog: 
 
