@@ -2,7 +2,6 @@
 
 - 🔭 I’m a Security Researcher working in Cyber Threat Intelligence 
 - 🌱 I’m currently learning Malware Analysis
-- 👯 I’m looking to collaborate on Security Research
 - 💬 Ask me about Malware, Phishing, and APTs
 - ⚡ Fun fact: I discovered [OZH RAT](https://malpedia.caad.fkie.fraunhofer.de/details/win.ozh_rat)
 
