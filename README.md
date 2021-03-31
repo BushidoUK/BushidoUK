@@ -40,4 +40,3 @@ For my blog, visit here: https://bushidotoken.net
 
 ## 🏆 Badges:
 ![conintbadge](https://github.com/BushidoUK/BushidoUK/blob/master/conintbadge.jpg)
-![tracelabs](https://github.com/BushidoUK/BushidoUK/blob/master/tracelabs.jpg)
