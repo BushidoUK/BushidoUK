@@ -42,9 +42,7 @@
 ## 🌎 Other: 
 
 - [BugCrowd](https://bugcrowd.com/BushidoToken)
-
 - [HackerOne](https://hackerone.com/bushidotoken)
-
 - [Hunting Phishing Pages](https://twitter.com/search?q=from%3A%40BushidoToken%20phishing&src=typed_query&f=live)
 
 ## 📫 How to reach me:
