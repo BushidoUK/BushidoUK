@@ -17,7 +17,8 @@
 
 ## 📝 Blog: 
 
-For my blog, visit here: https://bushidotoken.net
+- https://bushidotoken.net
+- https://curatedintel.org
 
 ## 🎙 Talks:
 
