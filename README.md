@@ -36,6 +36,8 @@
 - [SANS Internet Storm Center - Qakbot](https://isc.sans.edu/diary/27008)
 - [KrebsOnSecurity - uAdmin 2FA phishing kit](https://krebsonsecurity.com/2021/02/arrest-raids-tied-to-u-admin-phishing-kit/)
 - [Cyjax - Research Blogs](https://www.cyjax.com/author/will/)
+- [Cybersec.sk - MBR Wiper](https://cybersec.sk/spravy/zo-sveta/novy-wiper-zneuziva-meno-bezpecnostneho-vyskumnika/)
+- [Phishunt.io - Community](https://phishunt.io/community/)
 
 ## 🌎 Other: 
 
