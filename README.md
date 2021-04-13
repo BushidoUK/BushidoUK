@@ -26,6 +26,19 @@
 
 - [BeerCon2 - 'Gone Phishin' / Attack of the phish (something something phishing)'](https://www.youtube.com/watch?v=REVItTHz2-c)
 
+## 📰 Featured articles:
+
+- [The Telegraph - Royal Mail Scam](https://www.telegraph.co.uk/news/2021/03/28/exclusive-police-losing-battle-against-gangs-behind-surge-scam/)
+- [RISKIQ - Turkey Dog](https://www.riskiq.com/blog/external-threat-management/turkey-dog-covid-lures/)
+- [Malpedia - OZH RAT](https://malpedia.caad.fkie.fraunhofer.de/details/win.ozh_rat)
+- [Bleeping Computer - Basecamp](https://www.bleepingcomputer.com/news/security/hackers-now-abuse-basecamp-for-free-malware-hosting/)
+- [Bleeping Computer - North Koreans Targeting Researchers](https://www.bleepingcomputer.com/news/security/north-korean-hackers-are-targeting-security-researchers-with-malware-0-days/)
+- [CyberSecStu - Blog of the Week](https://www.getrevue.co/profile/cybersecstu/issues/osint-and-internet-dumpster-diving-by-stu-issue-3-368469)
+- [Sector035 - Blog of the Week](https://medium.com/week-in-osint/week-in-osint-2020-17-9b6115095a4d)
+- [SANS Internet Storm Center - Qakbot](https://isc.sans.edu/diary/27008)
+- [KrebsOnSecurity - uAdmin 2FA phishing kit](https://krebsonsecurity.com/2021/02/arrest-raids-tied-to-u-admin-phishing-kit/)
+- [Cyjax - Research Blogs](https://www.cyjax.com/author/will/)
+
 ## 🌎 Other: 
 
 - [BugCrowd](https://bugcrowd.com/BushidoToken)
