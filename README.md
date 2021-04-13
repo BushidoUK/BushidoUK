@@ -29,7 +29,6 @@
 
 - [The Telegraph - Royal Mail Scam](https://www.telegraph.co.uk/news/2021/03/28/exclusive-police-losing-battle-against-gangs-behind-surge-scam/)
 - [RISKIQ - Turkey Dog](https://www.riskiq.com/blog/external-threat-management/turkey-dog-covid-lures/)
-- [Malpedia - OZH RAT](https://malpedia.caad.fkie.fraunhofer.de/details/win.ozh_rat)
 - [Bleeping Computer - Basecamp](https://www.bleepingcomputer.com/news/security/hackers-now-abuse-basecamp-for-free-malware-hosting/)
 - [Bleeping Computer - North Koreans Targeting Researchers](https://www.bleepingcomputer.com/news/security/north-korean-hackers-are-targeting-security-researchers-with-malware-0-days/)
 - [CyberSecStu - Blog of the Week](https://www.getrevue.co/profile/cybersecstu/issues/osint-and-internet-dumpster-diving-by-stu-issue-3-368469)
