@@ -22,8 +22,8 @@
 
 ## 🎙 Talks:
 
-- [conINT 2020 - 'Using Cyber Threat Intelligence to Defend against Ransomware'](https://www.youtube.com/watch?v=QLz_6ghgNXA)
-- [BeerCon2 - 'Gone Phishin' / Attack of the phish (something something phishing)'](https://www.youtube.com/watch?v=REVItTHz2-c)
+- [conINT 2020 - Using Cyber Threat Intelligence to Defend against Ransomware](https://www.youtube.com/watch?v=QLz_6ghgNXA)
+- [BeerCon2 - Gone Phishin' / Attack of the phish (something something phishing](https://www.youtube.com/watch?v=REVItTHz2-c)
 
 ## 📰 Features:
 
