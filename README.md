@@ -33,7 +33,7 @@
 - [Bleeping Computer - North Koreans Targeting Researchers](https://www.bleepingcomputer.com/news/security/north-korean-hackers-are-targeting-security-researchers-with-malware-0-days/)
 - [Bleeping Computer - BazarCall](https://www.bleepingcomputer.com/news/security/bazarcall-malware-uses-malicious-call-centers-to-infect-victims/)
 - [The Record - IcedID spam campaign](https://therecord.media/icedid-malware-gang-positioning-itself-as-one-of-the-emotet-replacements/)
-- [Uswith - Roayl Mail scam](https://www.uswitch.com/mobiles/news/2021/03/royal-mail-text-scam-what-you-need-to-know/)
+- [Uswitch - Roayl Mail scam](https://www.uswitch.com/mobiles/news/2021/03/royal-mail-text-scam-what-you-need-to-know/)
 - [CyberSecStu - Blog of the Week](https://www.getrevue.co/profile/cybersecstu/issues/osint-and-internet-dumpster-diving-by-stu-issue-3-368469)
 - [Sector035 - Where's Bond](https://medium.com/week-in-osint/week-in-osint-2020-17-9b6115095a4d)
 - [SANS Internet Storm Center - Qakbot](https://isc.sans.edu/diary/27008)
