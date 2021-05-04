@@ -29,6 +29,7 @@
 ## 📰 Features:
 
 - [The Telegraph - Royal Mail Scam](https://www.telegraph.co.uk/news/2021/03/28/exclusive-police-losing-battle-against-gangs-behind-surge-scam/)
+- [Vice - Workers Unite](https://www.vice.com/en/article/7kvvbb/argyle-payroll-login-phishing)
 - [RISKIQ - Turkey Dog](https://www.riskiq.com/blog/external-threat-management/turkey-dog-covid-lures/)
 - [Bleeping Computer - Basecamp](https://www.bleepingcomputer.com/news/security/hackers-now-abuse-basecamp-for-free-malware-hosting/)
 - [Bleeping Computer - North Koreans Targeting Researchers](https://www.bleepingcomputer.com/news/security/north-korean-hackers-are-targeting-security-researchers-with-malware-0-days/)
