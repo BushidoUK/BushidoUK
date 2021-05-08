@@ -15,6 +15,7 @@
 - [Tracking Phishing Campaigns](https://pastebin.com/u/BUSHIDOTOKEN)
 - [OSINT Search Operators](https://github.com/BushidoUK/OSINT-SearchOperators)
 - [Regex for CTI](https://github.com/BushidoUK/CTI-Regex/blob/main/regex.csv)
+- [CTI Lexicon](https://github.com/BushidoUK/CTI-Lexicon/blob/main/Lexicon.md)
 
 ## 📝 Blog: 
 
