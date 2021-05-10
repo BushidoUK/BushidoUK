@@ -5,6 +5,7 @@
 - 💬 Ask me about Malware, Phishing, and APTs
 - 👉 Read about my first year in CTI [here](https://blog.bushidotoken.net/2020/08/my-first-year-in-cyber-threat.html)
 - ⚡ Fun fact: I discovered [OZH RAT](https://malpedia.caad.fkie.fraunhofer.de/details/win.ozh_rat)
+- 🎣 Tracking Phishing Campaigns [here](https://pastebin.com/u/BUSHIDOTOKEN) and [here](https://twitter.com/search?q=from%3A%40BushidoToken%20phishing&src=typed_query&f=live)
 - 💻 I currently work for Cyjax, read my research Blogs [here](https://www.cyjax.com/author/will/)
 
 ## 🤖 Projects:
@@ -14,7 +15,6 @@
 - [The Insider Threat CTFs](https://github.com/BushidoUK/The-Insider-Threat-CTF)
 - [Malware Zoo](https://github.com/BushidoUK/Malware-Zoo/blob/main/Need-to-know%20malware.csv)
 - [Open Source Malware](https://github.com/BushidoUK/Open-source-Malware/blob/main/GitHubMalware.csv)
-- [Tracking Phishing Campaigns](https://pastebin.com/u/BUSHIDOTOKEN)
 - [OSINT Search Operators](https://github.com/BushidoUK/OSINT-SearchOperators)
 - [Regex for CTI](https://github.com/BushidoUK/CTI-Regex/blob/main/regex.csv)
 - [CTI Lexicon](https://github.com/BushidoUK/CTI-Lexicon/blob/main/Lexicon.md)
@@ -52,7 +52,6 @@
 
 - [BugCrowd](https://bugcrowd.com/BushidoToken)
 - [HackerOne](https://hackerone.com/bushidotoken)
-- [Hunting Phishing Pages](https://twitter.com/search?q=from%3A%40BushidoToken%20phishing&src=typed_query&f=live)
 
 ## 📫 How to reach me:
 
