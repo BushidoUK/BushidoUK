@@ -5,7 +5,7 @@
 - 💬 Ask me about Malware, Phishing, and APTs
 - 👉 Read about my first year in CTI [here](https://blog.bushidotoken.net/2020/08/my-first-year-in-cyber-threat.html)
 - ⚡ Fun fact: I discovered [OZH RAT](https://malpedia.caad.fkie.fraunhofer.de/details/win.ozh_rat)
-- I currently work for Cyjax, read my research Blogs [here](https://www.cyjax.com/author/will/)
+- 💻 I currently work for Cyjax, read my research Blogs [here](https://www.cyjax.com/author/will/)
 
 ## 🤖 Projects:
 
