@@ -5,6 +5,7 @@
 - 💬 Ask me about Malware, Phishing, and APTs
 - 👉 Read about my first year in CTI [here](https://blog.bushidotoken.net/2020/08/my-first-year-in-cyber-threat.html)
 - ⚡ Fun fact: I discovered [OZH RAT](https://malpedia.caad.fkie.fraunhofer.de/details/win.ozh_rat)
+- - I currently work for Cyjax, read my research Blogs [here](https://www.cyjax.com/author/will/)
 
 ## 🤖 Projects:
 
@@ -44,7 +45,6 @@
 - [Sector035 - Where's Bond?](https://medium.com/week-in-osint/week-in-osint-2020-17-9b6115095a4d)
 - [SANS Internet Storm Center - Qakbot](https://isc.sans.edu/diary/27008)
 - [KrebsOnSecurity - uAdmin 2FA phishing kit](https://krebsonsecurity.com/2021/02/arrest-raids-tied-to-u-admin-phishing-kit/)
-- [Cyjax - Research Blogs](https://www.cyjax.com/author/will/)
 - [Cybersec.sk - MBR Wiper](https://cybersec.sk/spravy/zo-sveta/novy-wiper-zneuziva-meno-bezpecnostneho-vyskumnika/)
 - [Phishunt.io - Community](https://phishunt.io/community/)
 
