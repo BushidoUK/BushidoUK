@@ -12,7 +12,7 @@
 - [Exploring APT campaigns](https://github.com/BushidoUK/Exploring-APT-campaigns)
 - [The Insider Threat CTFs](https://github.com/BushidoUK/The-Insider-Threat-CTF)
 - [Malware Zoo](https://github.com/BushidoUK/Malware-Zoo/blob/main/Need-to-know%20malware.csv)
-- [Open source Malware](https://github.com/BushidoUK/Open-source-Malware/blob/main/GitHubMalware.csv)
+- [Open Source Malware](https://github.com/BushidoUK/Open-source-Malware/blob/main/GitHubMalware.csv)
 - [Tracking Phishing Campaigns](https://pastebin.com/u/BUSHIDOTOKEN)
 - [OSINT Search Operators](https://github.com/BushidoUK/OSINT-SearchOperators)
 - [Regex for CTI](https://github.com/BushidoUK/CTI-Regex/blob/main/regex.csv)
