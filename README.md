@@ -3,6 +3,7 @@
 - 🔭 I’m a Security Researcher working in Cyber Threat Intelligence 
 - 🌱 I’m currently learning about cyber-espionage
 - 💬 Ask me about Malware, Phishing, and APTs
+- 👉 Read about my first year in CTI [here](https://blog.bushidotoken.net/2020/08/my-first-year-in-cyber-threat.html)
 - ⚡ Fun fact: I discovered [OZH RAT](https://malpedia.caad.fkie.fraunhofer.de/details/win.ozh_rat)
 
 ## 🤖 Projects:
