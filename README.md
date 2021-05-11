@@ -19,7 +19,7 @@
 - [Regex for CTI](https://github.com/BushidoUK/CTI-Regex/blob/main/regex.csv)
 - [CTI Lexicon](https://github.com/BushidoUK/CTI-Lexicon/blob/main/Lexicon.md)
 
-## 💻 I’m currently working on ...
+## 💻 I’m currently working on:
 
 ![BushidoUK's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=BushidoUK&repo=Open-source-tools-for-CTI&show_icons=true&title_color=3996ff&icon_color=79ff97&text_color=fff&bg_color=151515)
 
