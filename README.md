@@ -24,8 +24,9 @@
 ![BushidoUK's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=BushidoUK&repo=Open-source-tools-for-CTI&show_icons=true&title_color=3996ff&icon_color=79ff97&text_color=fff&bg_color=151515)
 
 
-## 📝 Blog: 
+## 📝 Research: 
 
+- https://www.cyjax.com/author/will/
 - https://bushidotoken.net
 - https://curatedintel.org
 
