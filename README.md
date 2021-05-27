@@ -43,6 +43,7 @@
 - [Bleeping Computer - Basecamp](https://www.bleepingcomputer.com/news/security/hackers-now-abuse-basecamp-for-free-malware-hosting/)
 - [Bleeping Computer - North Koreans Targeting Researchers](https://www.bleepingcomputer.com/news/security/north-korean-hackers-are-targeting-security-researchers-with-malware-0-days/)
 - [Bleeping Computer - BazarCall](https://www.bleepingcomputer.com/news/security/bazarcall-malware-uses-malicious-call-centers-to-infect-victims/)
+- [PortSwigger - North Koreans APTs](https://portswigger.net/daily-swig/prominent-cybersecurity-researchers-among-those-targeted-in-north-korean-hacking-campaign)
 - [The Record - IcedID spam campaign](https://therecord.media/icedid-malware-gang-positioning-itself-as-one-of-the-emotet-replacements/)
 - [The Record - Passwordstate](https://therecord.media/password-manager-passwordstate-hacked-to-deploy-malware-on-customer-systems/)
 - [CyberWire - Passwordstate](https://thecyberwire.com/newsletters/privacy-briefing/3/79)
