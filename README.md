@@ -26,9 +26,11 @@
 
 ## 📝 Research: 
 
-- https://www.cyjax.com/author/will/
-- https://bushidotoken.net
-- https://curatedintel.org
+[![Cyjax](https://img.shields.io/badge/Cyjax-Research-orange)](https://www.cyjax.com/author/will/)
+
+[![Website](https://img.shields.io/badge/BushidoToken.net-black)](https://bushidotoken.net)
+
+[![Website2](https://img.shields.io/badge/CuratedIntel.org-blue)](https://curatedintel.org)
 
 ## 🎙 Talks:
 
@@ -58,8 +60,9 @@
 
 ## 🌎 Other: 
 
-- [BugCrowd](https://bugcrowd.com/BushidoToken)
-- [HackerOne](https://hackerone.com/bushidotoken)
+[![BugCrowd](https://img.shields.io/badge/BugCrowd-BushidoToken-blue)](https://bugcrowd.com/BushidoToken)
+
+[![HackerOne](https://img.shields.io/badge/HackerOne-BushidoToken-green)](https://hackerone.com/bushidotoken)
 
 ## 📫 How to reach me:
 
