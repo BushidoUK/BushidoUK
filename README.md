@@ -63,7 +63,7 @@
 
 ## 📫 How to reach me:
 
-![Twitter](https://img.shields.io/twitter/follow/BushidoToken?style=social)
+[![Twitter](https://img.shields.io/twitter/follow/BushidoToken?style=social)](https://twitter.com/bushidotoken)
 
 ![Email](https://img.shields.io/badge/Email-will%40bushidotoken.net-blue)
 
