@@ -68,7 +68,7 @@
 
 [![Twitter](https://img.shields.io/twitter/follow/BushidoToken?style=social)](https://twitter.com/bushidotoken)
 
-[![Email](https://img.shields.io/badge/Email-will%40bushidotoken.net-blue)](will@bushidotoken.net)
+[![Email](https://img.shields.io/badge/Email-will%40bushidotoken.net-blue)](mailto:will@bushidotoken.net)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BushidoUK&show_icons=true&title_color=3996ff&icon_color=79ff97&text_color=fff&bg_color=151515)
 
