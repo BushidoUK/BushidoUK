@@ -8,6 +8,12 @@
 - 🎣 Tracking Phishing Campaigns [here](https://pastebin.com/u/BUSHIDOTOKEN) and [here](https://twitter.com/search?q=from%3A%40BushidoToken%20phishing&src=typed_query&f=live)
 - 💻 I currently work for Cyjax, read my research Blogs [here](https://www.cyjax.com/author/will/)
 
+## 📫 How to reach me:
+
+[![Twitter](https://img.shields.io/twitter/follow/BushidoToken?style=social)](https://twitter.com/bushidotoken)
+
+[![Email](https://img.shields.io/badge/Email-will%40bushidotoken.net-blue)](mailto:will@bushidotoken.net)
+
 ## 🤖 Projects:
 
 - [Open sources tools for Cyber Threat Intelligence](https://github.com/BushidoUK/Open-source-tools-for-CTI/blob/master/README.md)
@@ -22,15 +28,6 @@
 ## 💻 I’m currently working on:
 
 ![BushidoUK's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=BushidoUK&repo=Open-source-tools-for-CTI&show_icons=true&title_color=3996ff&icon_color=79ff97&text_color=fff&bg_color=151515)
-
-
-## 📝 Research: 
-
-[![Cyjax](https://img.shields.io/badge/Cyjax-Research-orange)](https://www.cyjax.com/author/will/)
-
-[![Website](https://img.shields.io/badge/BushidoToken.net-black)](https://bushidotoken.net)
-
-[![Website2](https://img.shields.io/badge/CuratedIntel.org-blue)](https://curatedintel.org)
 
 ## 🎙 Talks:
 
@@ -60,15 +57,10 @@
 
 ## 🌎 Other: 
 
-[![BugCrowd](https://img.shields.io/badge/BugCrowd-BushidoToken-blue)](https://bugcrowd.com/BushidoToken)
-
-[![HackerOne](https://img.shields.io/badge/HackerOne-BushidoToken-green)](https://hackerone.com/bushidotoken)
-
-## 📫 How to reach me:
-
-[![Twitter](https://img.shields.io/twitter/follow/BushidoToken?style=social)](https://twitter.com/bushidotoken)
-
-[![Email](https://img.shields.io/badge/Email-will%40bushidotoken.net-blue)](mailto:will@bushidotoken.net)
+[![Website](https://img.shields.io/badge/BushidoToken.net-grey)](https://bushidotoken.net)
+[![Website2](https://img.shields.io/badge/CuratedIntel.org-white)](https://curatedintel.org)
+[![BugCrowd](https://img.shields.io/badge/BugCrowd-grey)](https://bugcrowd.com/BushidoToken)
+[![HackerOne](https://img.shields.io/badge/HackerOne-white)](https://hackerone.com/bushidotoken)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BushidoUK&show_icons=true&title_color=3996ff&icon_color=79ff97&text_color=fff&bg_color=151515)
 
