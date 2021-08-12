@@ -66,8 +66,8 @@
 [![Website2](https://img.shields.io/badge/CuratedIntel.org-white)](https://curatedintel.org)
 [![BugCrowd](https://img.shields.io/badge/BugCrowd-grey)](https://bugcrowd.com/BushidoToken)
 [![HackerOne](https://img.shields.io/badge/HackerOne-white)](https://hackerone.com/bushidotoken)
-[![OTX Alienvault](https://img.shields.io/badge/OTX-Green)](https://otx.alienvault.com/user/BushidoToken)
-[![Pastebin](https://img.shields.io/badge/PasteBin-Black)](https://pastebin.com/u/BUSHIDOTOKEN)
+[![OTX Alienvault](https://img.shields.io/badge/OTX-grey)](https://otx.alienvault.com/user/BushidoToken)
+[![Pastebin](https://img.shields.io/badge/PasteBin-white)](https://pastebin.com/u/BUSHIDOTOKEN)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BushidoUK&show_icons=true&title_color=3996ff&icon_color=79ff97&text_color=fff&bg_color=151515)
 
