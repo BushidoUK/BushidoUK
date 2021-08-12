@@ -55,6 +55,7 @@
 - [CyberSecStu - Blog of the Week](https://www.getrevue.co/profile/cybersecstu/issues/osint-and-internet-dumpster-diving-by-stu-issue-3-368469)
 - [Sector035 - Where's Bond?](https://medium.com/week-in-osint/week-in-osint-2020-17-9b6115095a4d)
 - [SANS Internet Storm Center - Qakbot](https://isc.sans.edu/diary/27008)
+- [SANS OSINT Summit - Discord for CTI](https://www.sans.org/blog/list-of-resource-links-from-open-source-intelligence-summit-2021/)
 - [KrebsOnSecurity - uAdmin 2FA phishing kit](https://krebsonsecurity.com/2021/02/arrest-raids-tied-to-u-admin-phishing-kit/)
 - [Cybersec.sk - MBR Wiper](https://cybersec.sk/spravy/zo-sveta/novy-wiper-zneuziva-meno-bezpecnostneho-vyskumnika/)
 - [Phishunt.io - Community](https://phishunt.io/community/)
