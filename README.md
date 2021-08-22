@@ -41,7 +41,7 @@
 - [The Telegraph - Royal Mail Scam](https://www.telegraph.co.uk/news/2021/03/28/exclusive-police-losing-battle-against-gangs-behind-surge-scam/)
 - [Vice - Workers Unite](https://www.vice.com/en/article/7kvvbb/argyle-payroll-login-phishing)
 - [RISKIQ - Turkey Dog](https://www.riskiq.com/blog/external-threat-management/turkey-dog-covid-lures/)
-- - [Rapid7 - REvil attack on Kaseya](https://www.rapid7.com/blog/post/2021/07/13/managed-service-providers-used-in-coordinated-mass-ransomware-attack-impacting-hundreds-of-companies/)
+- [Rapid7 - REvil attack on Kaseya](https://www.rapid7.com/blog/post/2021/07/13/managed-service-providers-used-in-coordinated-mass-ransomware-attack-impacting-hundreds-of-companies/)
 - [Splunk - REvil attack on Kaseya](https://www.splunk.com/en_us/blog/security/kaseya-sera-what-revil-shall-encrypt-shall-encrypt.html)
 - [VirusTotal Blog - North Korean APT using the Amadey Trojan](https://blog.virustotal.com/2021/07/having-right-tool-for-job.html)
 - [CyberDefenders - L'espion OSINT CTF](https://cyberdefenders.org/labs/73)
