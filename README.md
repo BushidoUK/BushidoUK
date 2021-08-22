@@ -33,6 +33,7 @@
 
 - [conINT 2020 - Using Cyber Threat Intelligence to Defend against Ransomware](https://www.youtube.com/watch?v=QLz_6ghgNXA)
 - [BeerCon2 - Gone Phishin' / Attack of the phish (something something phishing)](https://www.youtube.com/watch?v=REVItTHz2-c)
+- [TMHC IsolationCon2](https://www.tmhcisolationcon.com/schedule/exploiting-the-supply-chain-for-fun-and-espionage/)
 - [DEFCON29 - BTV Presents: Threat Report Roulette](https://www.youtube.com/watch?v=rUAhYiDn0M0)
 
 ## 📰 Features:
@@ -60,6 +61,10 @@
 - [Cybersec.sk - MBR Wiper](https://cybersec.sk/spravy/zo-sveta/novy-wiper-zneuziva-meno-bezpecnostneho-vyskumnika/)
 - [Phishunt.io - Community](https://phishunt.io/community/)
 - [MalOps - SharePoint Phishing](https://mal-ops.com/sharepoint-phishing-island-hopping/)
+- [Rapid7 - REvil attack on Kaseya](https://www.rapid7.com/blog/post/2021/07/13/managed-service-providers-used-in-coordinated-mass-ransomware-attack-impacting-hundreds-of-companies/)
+- [Splunk - REvil attack on Kaseya](https://www.splunk.com/en_us/blog/security/kaseya-sera-what-revil-shall-encrypt-shall-encrypt.html)
+- [Forcepoint - WastedLocker](https://www.forcepoint.com/blog/x-labs/shape-of-ransomware-to-come)
+- [CyberDefenders - L'espion OSINT CTF](https://cyberdefenders.org/labs/73)
 
 ## 🌎 Other: 
 
