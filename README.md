@@ -40,6 +40,7 @@
 
 - [The Telegraph - Royal Mail Scam](https://www.telegraph.co.uk/news/2021/03/28/exclusive-police-losing-battle-against-gangs-behind-surge-scam/)
 - [Vice - Workers Unite](https://www.vice.com/en/article/7kvvbb/argyle-payroll-login-phishing)
+- [HHS.gov - Malicious Use of Email Marketing Services](https://www.hhs.gov/sites/default/files/threat-posed-by-bulk-email-services.pdf)
 - [RISKIQ - Turkey Dog](https://www.riskiq.com/blog/external-threat-management/turkey-dog-covid-lures/)
 - [Rapid7 - REvil attack on Kaseya](https://www.rapid7.com/blog/post/2021/07/13/managed-service-providers-used-in-coordinated-mass-ransomware-attack-impacting-hundreds-of-companies/)
 - [Splunk - REvil attack on Kaseya](https://www.splunk.com/en_us/blog/security/kaseya-sera-what-revil-shall-encrypt-shall-encrypt.html)
@@ -55,6 +56,7 @@
 - [The Record - APT31](https://therecord.media/chinese-hacking-group-apt31-uses-mesh-of-home-routers-to-disguise-attacks/)
 - [The Record - Trickbot](https://therecord.media/us-arrests-latvian-woman-who-worked-on-trickbot-malware-source-code/)
 - [Arstechnica - APT31](https://arstechnica.com/gadgets/2021/07/home-and-office-routers-come-under-attack-by-china-state-hackers-france-warns/)
+- [Softpedia - APT31](https://news.softpedia.com/news/home-and-office-routers-are-targeted-by-chinese-state-hackers-533547.shtml)
 - [CyberWire - Passwordstate](https://thecyberwire.com/newsletters/privacy-briefing/3/79)
 - [Uswitch - Roayl Mail scam](https://www.uswitch.com/mobiles/news/2021/03/royal-mail-text-scam-what-you-need-to-know/)
 - [CyberSecStu - Blog of the Week](https://www.getrevue.co/profile/cybersecstu/issues/osint-and-internet-dumpster-diving-by-stu-issue-3-368469)
