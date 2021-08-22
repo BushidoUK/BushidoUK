@@ -33,7 +33,7 @@
 
 - [conINT 2020 - Using Cyber Threat Intelligence to Defend against Ransomware](https://www.youtube.com/watch?v=QLz_6ghgNXA)
 - [BeerCon2 - Gone Phishin' / Attack of the phish (something something phishing)](https://www.youtube.com/watch?v=REVItTHz2-c)
-- [TMHC IsolationCon2](https://www.tmhcisolationcon.com/schedule/exploiting-the-supply-chain-for-fun-and-espionage/)
+- [TMHC IsolationCon2 - Exploiting the Supply-Chain for Fun and Espionage](https://www.tmhcisolationcon.com/schedule/exploiting-the-supply-chain-for-fun-and-espionage/)
 - [DEFCON29 - BTV Presents: Threat Report Roulette](https://www.youtube.com/watch?v=rUAhYiDn0M0)
 
 ## 📰 Features:
