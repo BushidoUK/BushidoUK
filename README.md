@@ -47,9 +47,6 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BushidoUK&show_icons=true&title_color=3996ff&icon_color=79ff97&text_color=fff&bg_color=151515)
 
-## 🏆 Badges:
-![conintbadge](https://github.com/BushidoUK/BushidoUK/blob/master/conintbadge.jpg)
-
 ## 📰 Features:
 
 - [The Telegraph - Royal Mail Scam](https://www.telegraph.co.uk/news/2021/03/28/exclusive-police-losing-battle-against-gangs-behind-surge-scam/)
