@@ -65,6 +65,7 @@
 - [The Record - Passwordstate](https://therecord.media/password-manager-passwordstate-hacked-to-deploy-malware-on-customer-systems/)
 - [The Record - APT31](https://therecord.media/chinese-hacking-group-apt31-uses-mesh-of-home-routers-to-disguise-attacks/)
 - [The Record - Trickbot](https://therecord.media/us-arrests-latvian-woman-who-worked-on-trickbot-malware-source-code/)
+- [The Record - Phorpiex](https://therecord.media/phorpiex-botnet-shuts-down-source-code-goes-up-for-sale/)
 - [VirusBulletin - PancakeSwap](https://twitter.com/virusbtn/status/1429769646866063363)
 - [VirusBulletin - Lazarus](https://twitter.com/virusbtn/status/1425133352533774346)
 - [VirusBulletin - SharePoint Phishing](https://twitter.com/virusbtn/status/1404441001045987329)
