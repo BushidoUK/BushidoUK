@@ -22,7 +22,6 @@
 - [Malware Zoo](https://github.com/BushidoUK/Malware-Zoo/blob/main/Need-to-know%20malware.csv)
 - [Open Source Malware](https://github.com/BushidoUK/Open-source-Malware/blob/main/GitHubMalware.csv)
 - [OSINT Search Operators](https://github.com/BushidoUK/OSINT-SearchOperators)
-- [Regex for CTI](https://github.com/BushidoUK/CTI-Regex/blob/main/regex.csv)
 - [CTI Lexicon](https://github.com/BushidoUK/CTI-Lexicon/blob/main/Lexicon.md)
 
 ## 💻 I’m currently working on:
