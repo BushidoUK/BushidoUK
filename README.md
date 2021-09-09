@@ -11,6 +11,7 @@
 
 ## 📫 How to reach me:
 
+#### Twitter
 [![Twitter](https://img.shields.io/twitter/follow/BushidoToken?style=social)](https://twitter.com/bushidotoken)
 
 #### Contact: 
