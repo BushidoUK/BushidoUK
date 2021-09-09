@@ -13,9 +13,11 @@
 
 [![Twitter](https://img.shields.io/twitter/follow/BushidoToken?style=social)](https://twitter.com/bushidotoken)
 
-#### Contact: [![Contact](https://img.shields.io/badge/Email-will%40bushidotoken.net-blue)](mailto:will@bushidotoken.net)
+#### Contact: 
+[![Contact](https://img.shields.io/badge/Email-will%40bushidotoken.net-blue)](mailto:will@bushidotoken.net)
 
-#### Research: [![Research](https://img.shields.io/badge/Email-research%40bushidotoken.net-blue)](mailto:research@bushidotoken.net)
+#### Research:
+[![Research](https://img.shields.io/badge/Email-research%40bushidotoken.net-blue)](mailto:research@bushidotoken.net)
 
 ## 🤖 Projects:
 
