@@ -72,6 +72,7 @@
 - [VirusBulletin - PancakeSwap](https://twitter.com/virusbtn/status/1429769646866063363)
 - [VirusBulletin - Lazarus](https://twitter.com/virusbtn/status/1425133352533774346)
 - [VirusBulletin - SharePoint Phishing](https://twitter.com/virusbtn/status/1404441001045987329)
+- [ESET Research - GMERA](https://twitter.com/ESETresearch/status/1407952001456033792)
 - [Security Week - APT campaign targeting EMEA and APAC governments](https://www.securityweek.com/ongoing-phishing-campaign-targets-apac-emea-governments)
 - [Arstechnica - APT31](https://arstechnica.com/gadgets/2021/07/home-and-office-routers-come-under-attack-by-china-state-hackers-france-warns/)
 - [Softpedia - APT31](https://news.softpedia.com/news/home-and-office-routers-are-targeted-by-chinese-state-hackers-533547.shtml)
