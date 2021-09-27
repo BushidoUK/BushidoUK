@@ -1,3 +1,12 @@
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BushidoUK&show_icons=true&title_color=3996ff&icon_color=79ff97&text_color=fff&bg_color=151515)
+
+[![Website](https://img.shields.io/badge/BushidoToken.net-grey)](https://bushidotoken.net)
+[![Website2](https://img.shields.io/badge/CuratedIntel.org-white)](https://curatedintel.org)
+[![BugCrowd](https://img.shields.io/badge/BugCrowd-grey)](https://bugcrowd.com/BushidoToken)
+[![HackerOne](https://img.shields.io/badge/HackerOne-white)](https://hackerone.com/bushidotoken)
+[![OTX Alienvault](https://img.shields.io/badge/OTX-grey)](https://otx.alienvault.com/user/BushidoToken)
+[![Pastebin](https://img.shields.io/badge/PasteBin-white)](https://pastebin.com/u/BUSHIDOTOKEN)
+
 ## 👋 Intro:
 
 - 🔭 I’m a Security Researcher working in Cyber Threat Intelligence 
@@ -37,17 +46,6 @@
 - [BeerCon2 - Gone Phishin' / Attack of the phish (something something phishing)](https://www.youtube.com/watch?v=REVItTHz2-c)
 - [TMHC IsolationCon2 - Exploiting the Supply-Chain for Fun and Espionage](https://www.tmhcisolationcon.com/schedule/exploiting-the-supply-chain-for-fun-and-espionage/)
 - [DEFCON29 - BTV Presents: Threat Report Roulette](https://www.youtube.com/watch?v=rUAhYiDn0M0)
-
-## 🌎 Misc: 
-
-[![Website](https://img.shields.io/badge/BushidoToken.net-grey)](https://bushidotoken.net)
-[![Website2](https://img.shields.io/badge/CuratedIntel.org-white)](https://curatedintel.org)
-[![BugCrowd](https://img.shields.io/badge/BugCrowd-grey)](https://bugcrowd.com/BushidoToken)
-[![HackerOne](https://img.shields.io/badge/HackerOne-white)](https://hackerone.com/bushidotoken)
-[![OTX Alienvault](https://img.shields.io/badge/OTX-grey)](https://otx.alienvault.com/user/BushidoToken)
-[![Pastebin](https://img.shields.io/badge/PasteBin-white)](https://pastebin.com/u/BUSHIDOTOKEN)
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BushidoUK&show_icons=true&title_color=3996ff&icon_color=79ff97&text_color=fff&bg_color=151515)
 
 ## 📰 Features:
 
