@@ -14,6 +14,7 @@
 - 💬 Ask me about Malware, Phishing, and APTs
 - 👉 Read about my first year in CTI [here](https://blog.bushidotoken.net/2020/08/my-first-year-in-cyber-threat.html)
 - ⚡ Fun fact: I discovered [OZH RAT](https://malpedia.caad.fkie.fraunhofer.de/details/win.ozh_rat)
+- 🕵️‍♂️ I've contributed to the Mitre ATT&CK framework - [TeamTNT](https://attack.mitre.org/groups/G0139/) 
 - ☣ Tracking Malware Campaigns [here](https://twitter.com/search?q=from%3ABushidoToken%20%E2%98%A3&src=typed_query&f=live)
 - 🎣 Tracking Phishing Campaigns [here](https://pastebin.com/u/BUSHIDOTOKEN) and [here](https://twitter.com/search?q=from%3A%40BushidoToken%20phishing&src=typed_query&f=live)
 - 💻 I currently work for Cyjax, read my research Blogs [here](https://www.cyjax.com/author/will/)
