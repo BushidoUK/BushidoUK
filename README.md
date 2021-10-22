@@ -23,8 +23,6 @@
 
 [![Twitter](https://img.shields.io/twitter/follow/BushidoToken?style=social)](https://twitter.com/bushidotoken)
 
-[![Contact](https://img.shields.io/badge/Email-will%40bushidotoken.net-blue)](mailto:will@bushidotoken.net)
-
 ## 🤖 Projects:
 
 - [Open sources tools for Cyber Threat Intelligence](https://github.com/BushidoUK/Open-source-tools-for-CTI/blob/master/README.md)
