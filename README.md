@@ -23,8 +23,8 @@
 
 ## 🤖 Projects:
 
-- [Open sources tools for Cyber Threat Intelligence](https://github.com/BushidoUK/Open-source-tools-for-CTI/blob/master/README.md)
-- [Exploring APT campaigns](https://github.com/BushidoUK/Exploring-APT-campaigns)
+- [Open sources tools for CTI - collection of resources for OSINT analysis](https://github.com/BushidoUK/Open-source-tools-for-CTI/blob/master/README.md)
+- [Exploring APT campaigns - VirusTotal Graphs and Maltego Diagrams](https://github.com/BushidoUK/Exploring-APT-campaigns)
 - [Insider Threat-themed CTFs - OSINT challenges](https://github.com/BushidoUK/The-Insider-Threat-CTF)
 - [Malware Zoo - hashes of famous malware](https://github.com/BushidoUK/Malware-Zoo/blob/main/Need-to-know%20malware.csv)
 - [Open Source Malware - Links to OSTs on GitHub](https://github.com/BushidoUK/Open-source-Malware/blob/main/GitHubMalware.csv)
