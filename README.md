@@ -23,13 +23,13 @@
 
 ## 🤖 Projects:
 
-- [Open sources tools for CTI - collection of resources for OSINT analysis](https://github.com/BushidoUK/Open-source-tools-for-CTI/blob/master/README.md)
+- [Open sources tools for CTI - Collection of resources for OSINT analysis](https://github.com/BushidoUK/Open-source-tools-for-CTI/blob/master/README.md)
 - [Exploring APT campaigns - VirusTotal Graphs and Maltego Diagrams](https://github.com/BushidoUK/Exploring-APT-campaigns)
 - [Insider Threat-themed CTFs - OSINT challenges](https://github.com/BushidoUK/The-Insider-Threat-CTF)
-- [Malware Zoo - hashes of famous malware](https://github.com/BushidoUK/Malware-Zoo/blob/main/Need-to-know%20malware.csv)
+- [Malware Zoo - Hashes of famous malware](https://github.com/BushidoUK/Malware-Zoo/blob/main/Need-to-know%20malware.csv)
 - [Open Source Malware - Links to OSTs on GitHub](https://github.com/BushidoUK/Open-source-Malware/blob/main/GitHubMalware.csv)
 - [OSINT Search Operators - Shodan Queries and Google Dorks](https://github.com/BushidoUK/OSINT-SearchOperators)
-- [CTI Lexicon - Acronyms and CTI Jargon](https://github.com/BushidoUK/CTI-Lexicon/blob/main/Lexicon.md)
+- [CTI Lexicon - Acronyms and Technical Jargon](https://github.com/BushidoUK/CTI-Lexicon/blob/main/Lexicon.md)
 - [CTI Quiz - 4 Topics of Multiple Practice Questions](https://github.com/BushidoUK/CTI-Quiz/blob/main/README.md)
 - [EternalLiberty - APT moniker database](https://github.com/StrangerealIntel/EternalLiberty)
 
