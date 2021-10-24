@@ -31,7 +31,7 @@
 - [OSINT Search Operators](https://github.com/BushidoUK/OSINT-SearchOperators)
 - [CTI Lexicon](https://github.com/BushidoUK/CTI-Lexicon/blob/main/Lexicon.md)
 - [CTI Quiz](https://github.com/BushidoUK/CTI-Quiz/blob/main/README.md)
-- [EternalLiberty](https://github.com/StrangerealIntel/EternalLiberty)
+- [EternalLiberty - APT moniker database](https://github.com/StrangerealIntel/EternalLiberty)
 
 ## 💻 I’m currently working on:
 
