@@ -24,14 +24,14 @@
 ## 🤖 Projects:
 
 - [Open sources tools for CTI](https://github.com/BushidoUK/Open-source-tools-for-CTI/blob/master/README.md) - Collection of resources for OSINT analysis
-- [Exploring APT campaigns - VirusTotal Graphs and Maltego Diagrams](https://github.com/BushidoUK/Exploring-APT-campaigns)
-- [Insider Threat-themed CTFs - OSINT challenges](https://github.com/BushidoUK/The-Insider-Threat-CTF)
-- [Malware Zoo - Hashes of famous malware](https://github.com/BushidoUK/Malware-Zoo/blob/main/Need-to-know%20malware.csv)
-- [Open Source Malware - Links to OSTs on GitHub](https://github.com/BushidoUK/Open-source-Malware/blob/main/GitHubMalware.csv)
-- [OSINT Search Operators - Shodan Queries and Google Dorks](https://github.com/BushidoUK/OSINT-SearchOperators)
-- [CTI Lexicon - Acronyms and Technical Jargon](https://github.com/BushidoUK/CTI-Lexicon/blob/main/Lexicon.md)
-- [CTI Quiz - 4 Topics of Multiple Practice Questions](https://github.com/BushidoUK/CTI-Quiz/blob/main/README.md)
-- [EternalLiberty - APT moniker database](https://github.com/StrangerealIntel/EternalLiberty)
+- [Exploring APT campaigns](https://github.com/BushidoUK/Exploring-APT-campaigns) - VirusTotal Graphs and Maltego Diagrams
+- [2x Insider Threat-themed CTFs](https://github.com/BushidoUK/The-Insider-Threat-CTF) - OSINT challenges
+- [Malware Zoo](https://github.com/BushidoUK/Malware-Zoo/blob/main/Need-to-know%20malware.csv)- Hashes of famous malware
+- [Open Source Malware](https://github.com/BushidoUK/Open-source-Malware/blob/main/GitHubMalware.csv)- Links to OSTs on GitHub
+- [OSINT Search Operators](https://github.com/BushidoUK/OSINT-SearchOperators)- Shodan Queries and Google Dorks
+- [CTI Lexicon](https://github.com/BushidoUK/CTI-Lexicon/blob/main/Lexicon.md)- Acronyms and Technical Jargon
+- [CTI Quiz](https://github.com/BushidoUK/CTI-Quiz/blob/main/README.md) - 4 Topics of Multiple Practice Questions
+- [EternalLiberty](https://github.com/StrangerealIntel/EternalLiberty) - APT moniker database
 
 ## 💻 I’m currently working on:
 
