@@ -6,7 +6,7 @@
 [![HackerOne](https://img.shields.io/badge/HackerOne-white)](https://hackerone.com/bushidotoken)
 [![OTX Alienvault](https://img.shields.io/badge/OTX-grey)](https://otx.alienvault.com/user/BushidoToken)
 [![Pastebin](https://img.shields.io/badge/PasteBin-white)](https://pastebin.com/u/BUSHIDOTOKEN)
-[![Abuse.ch](https://img.shields.io/badge/OTX-grey)](https://bazaar.abuse.ch/user/1252623560/)
+[![Abuse.ch](https://img.shields.io/badge/Abuse.ch-grey)](https://bazaar.abuse.ch/user/1252623560/)
 
 ## 👋 Intro:
 
