@@ -33,6 +33,7 @@
 - [CTI Lexicon](https://github.com/BushidoUK/CTI-Lexicon/blob/main/Lexicon.md)- Acronyms and Technical Jargon
 - [CTI Quiz](https://github.com/BushidoUK/CTI-Quiz/blob/main/README.md) - 4 Topics of Multiple Practice Questions
 - [EternalLiberty](https://github.com/StrangerealIntel/EternalLiberty) - APT moniker database
+- [Abuse Legitimate Services](https://github.com/BushidoUK/Abused-Legitimate-Services) - List of services used for malware and phishing
 
 ## 💻 I’m currently working on:
 
