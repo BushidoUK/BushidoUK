@@ -16,7 +16,7 @@
 - 🕵️‍♂️ I've contributed to the Mitre ATT&CK framework - [TeamTNT](https://attack.mitre.org/groups/G0139/) 
 - ☣ Tweet about Malware Campaigns [here](https://twitter.com/search?q=from%3ABushidoToken%20%E2%98%A3&src=typed_query&f=live)
 - 🎣 Tweet Phishing Campaigns [here](https://twitter.com/search?q=from%3A%40BushidoToken%20phishing&src=typed_query&f=live)
-- 💻 Currently work for Cyjax, read my Research Blogs [here](https://www.cyjax.com/author/will/)
+- 💻 Previously worked for Cyjax, read my Research Blogs [here](https://www.cyjax.com/author/will/)
 
 ## 📫 How to reach me:
 
