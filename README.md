@@ -69,6 +69,7 @@
 - [The Record - Phorpiex](https://therecord.media/phorpiex-botnet-shuts-down-source-code-goes-up-for-sale/)
 - [The Record - BlackMatter](https://therecord.media/free-decrypter-announced-for-past-blackmatter-ransomware-victims/)
 - [The Record - REvil affiliate](https://therecord.media/us-arrests-and-charges-ukrainian-man-for-kaseya-ransomware-attack/)
+- [The Record - Log4Shell](https://therecord.media/log4shell-attacks-began-two-weeks-ago-cisco-and-cloudflare-say/)
 - [VirusBulletin - PancakeSwap](https://twitter.com/virusbtn/status/1429769646866063363)
 - [VirusBulletin - Lazarus](https://twitter.com/virusbtn/status/1425133352533774346)
 - [VirusBulletin - SharePoint Phishing](https://twitter.com/virusbtn/status/1404441001045987329)
