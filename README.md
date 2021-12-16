@@ -45,6 +45,7 @@
 - [BeerCon2 - Gone Phishin' / Attack of the phish (something something phishing)](https://www.youtube.com/watch?v=REVItTHz2-c)
 - [TMHC IsolationCon2 - Exploiting the Supply-Chain for Fun and Espionage](https://www.tmhcisolationcon.com/schedule/exploiting-the-supply-chain-for-fun-and-espionage/)
 - [DEFCON29 - BTV Presents: Threat Report Roulette](https://www.youtube.com/watch?v=rUAhYiDn0M0)
+- [BeerCon3 - Hacking-As-A-Service: Becoming An APT Is Easier Than Ever!](https://thebeerfarmers.org/beercon3-a-game-of-pwns/)
 
 ## 📰 Features:
 
