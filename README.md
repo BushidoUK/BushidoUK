@@ -39,7 +39,7 @@
 
 ## 💻 I’m currently working on:
 
-![CuratedIntel's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=curated-intelK&repoLog4Shell-IOCs&show_icons=true&title_color=3996ff&icon_color=79ff97&text_color=fff&bg_color=151515)
+![CuratedIntel's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=curated-intel&repo=Log4Shell-IOCs&show_icons=true&title_color=3996ff&icon_color=79ff97&text_color=fff&bg_color=151515)
 
 ## 🎙 Talks:
 
