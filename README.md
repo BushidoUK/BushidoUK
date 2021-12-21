@@ -17,6 +17,7 @@
 - ☣ Tweet about Malware Campaigns [here](https://twitter.com/search?q=from%3ABushidoToken%20%E2%98%A3&src=typed_query&f=live)
 - 🎣 Tweet Phishing Campaigns [here](https://twitter.com/search?q=from%3A%40BushidoToken%20phishing&src=typed_query&f=live)
 - 💻 Previously worked for Cyjax, read my Research Blogs [here](https://www.cyjax.com/author/will/)
+- 🌐 Currently working at the Equinix Threat Analysis Center (ETAC)
 
 ## 📫 How to reach me:
 
@@ -34,6 +35,7 @@
 - [CTI Quiz](https://github.com/BushidoUK/CTI-Quiz/blob/main/README.md) - 4 Topics of Multiple Practice Questions
 - [EternalLiberty](https://github.com/StrangerealIntel/EternalLiberty) - APT moniker database
 - [Abuse Legitimate Services](https://github.com/BushidoUK/Abused-Legitimate-Services) - List of services used for malware and phishing
+- [Log4Shell IOCs](https://github.com/curated-intel/Log4Shell-IOCs)
 
 ## 💻 I’m currently working on:
 
