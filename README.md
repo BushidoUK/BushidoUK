@@ -1,5 +1,6 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BushidoUK&show_icons=true&title_color=3996ff&icon_color=79ff97&text_color=fff&bg_color=151515)
 
+[![Twitter](https://img.shields.io/twitter/follow/BushidoToken?style=social)](https://twitter.com/bushidotoken)
 [![Website](https://img.shields.io/badge/BushidoToken.net-grey)](https://bushidotoken.net)
 [![Website2](https://img.shields.io/badge/CuratedIntel.org-white)](https://curatedintel.org)
 [![BugCrowd](https://img.shields.io/badge/BugCrowd-grey)](https://bugcrowd.com/BushidoToken)
@@ -18,10 +19,6 @@
 - 🎣 Tweet Phishing Campaigns [here](https://twitter.com/search?q=from%3A%40BushidoToken%20phishing&src=typed_query&f=live)
 - 💻 Previously worked for Cyjax, read my Research Blogs [here](https://www.cyjax.com/author/will/)
 - 🌐 Currently working at the Equinix Threat Analysis Center (ETAC)
-
-## 📫 How to reach me:
-
-[![Twitter](https://img.shields.io/twitter/follow/BushidoToken?style=social)](https://twitter.com/bushidotoken)
 
 ## 🤖 Projects:
 
