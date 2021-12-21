@@ -35,7 +35,7 @@
 - [CTI Quiz](https://github.com/BushidoUK/CTI-Quiz/blob/main/README.md) - 4 Topics of Multiple Practice Questions
 - [EternalLiberty](https://github.com/StrangerealIntel/EternalLiberty) - APT moniker database
 - [Abuse Legitimate Services](https://github.com/BushidoUK/Abused-Legitimate-Services) - List of services used for malware and phishing
-- [Log4Shell IOCs](https://github.com/curated-intel/Log4Shell-IOCs)
+- [Curated Intel Log4Shell IOCs](https://github.com/curated-intel/Log4Shell-IOCs) - Vetted IOCs and analysis of threats leveraging Log4Shell
 
 ## 💻 I’m currently working on:
 
