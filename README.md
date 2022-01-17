@@ -60,6 +60,7 @@
 - [VirusTotal Blog - North Korean APT using the Amadey Trojan](https://blog.virustotal.com/2021/07/having-right-tool-for-job.html)
 - [CyberDefenders - L'espion OSINT CTF](https://cyberdefenders.org/labs/73)
 - [The Register - Conti attack on HSE](https://www.theregister.com/2021/05/14/ireland_hse_ransomware_hospital_conti_wizardspider/)
+- [Bleeping Computer - APT Targeting Renewable Energy](https://www.bleepingcomputer.com/news/security/cyber-espionage-campaign-targets-renewable-energy-companies/)
 - [Bleeping Computer - Basecamp](https://www.bleepingcomputer.com/news/security/hackers-now-abuse-basecamp-for-free-malware-hosting/)
 - [Bleeping Computer - North Koreans Targeting Researchers](https://www.bleepingcomputer.com/news/security/north-korean-hackers-are-targeting-security-researchers-with-malware-0-days/)
 - [Bleeping Computer - BazarCall](https://www.bleepingcomputer.com/news/security/bazarcall-malware-uses-malicious-call-centers-to-infect-victims/)
