@@ -36,7 +36,7 @@
 
 ## 💻 I’m currently working on:
 
-[![CuratedIntel's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=curated-intel&repo=Log4Shell-IOCs&show_icons=true&title_color=3996ff&icon_color=79ff97&text_color=fff&bg_color=151515)](https://github.com/curated-intel/Log4Shell-IOCs/blob/main/README.md)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=bushidoukl&repo=Open-source-tools-for-CTI&show_icons=true&title_color=3996ff&icon_color=79ff97&text_color=fff&bg_color=151515)](https://github.com/BushidoUK/Open-source-tools-for-CTI/blob/master/README.md)
 
 ## 🎙 Talks:
 
