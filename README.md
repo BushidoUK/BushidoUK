@@ -36,7 +36,7 @@
 
 ## 💻 I’m currently working on:
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=bushidoukl&repo=Open-source-tools-for-CTI&show_icons=true&title_color=3996ff&icon_color=79ff97&text_color=fff&bg_color=151515)](https://github.com/BushidoUK/Open-source-tools-for-CTI/blob/master/README.md)
+[![BushidoUK's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=BushidoUK&repo=open-source-tools-for-cti&show_icons=true&title_color=3996ff&icon_color=79ff97&text_color=fff&bg_color=151515)](https://github.com/BushidoUK/Open-source-tools-for-CTI/blob/master/README.md)
 
 ## 🎙 Talks:
 
