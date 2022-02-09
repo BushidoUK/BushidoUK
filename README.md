@@ -33,6 +33,7 @@
 - [EternalLiberty](https://github.com/StrangerealIntel/EternalLiberty) - APT moniker database
 - [Abuse Legitimate Services](https://github.com/BushidoUK/Abused-Legitimate-Services) - List of services used for malware and phishing
 - [Curated Intel Log4Shell IOCs](https://github.com/curated-intel/Log4Shell-IOCs) - Vetted IOCs and analysis of threats leveraging Log4Shell
+- [Android Banking Trojan Nexus](https://github.com/BushidoUK/Android-Banking-Trojan-Nexus) - Centralised list of Android banking malware families
 
 ## 💻 I’m currently working on:
 
