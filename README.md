@@ -81,6 +81,8 @@
 - [VirusBulletin - Lazarus](https://twitter.com/virusbtn/status/1425133352533774346)
 - [VirusBulletin - SharePoint Phishing](https://twitter.com/virusbtn/status/1404441001045987329)
 - [VirusBulletin - Ransomware Decryption Intelligence](https://twitter.com/virusbtn/status/1451208414017855490)
+- [VirusBulletin - Renewable Energy Espionage](https://twitter.com/virusbtn/status/1483419407917498371)
+- [VirusBulletin - Top-tier Cybercrime](https://twitter.com/virusbtn/status/1434843581609545730)
 - [SentinelOne - Ransomware Decryption Intelligence](https://twitter.com/SentinelOne/status/1451653180048039940)
 - [ESET Research - GMERA](https://twitter.com/ESETresearch/status/1407952001456033792)
 - [SecurityWeek - APT campaign targeting EMEA and APAC governments](https://www.securityweek.com/ongoing-phishing-campaign-targets-apac-emea-governments)
