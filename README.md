@@ -50,7 +50,7 @@
 
 ## 📰 Features:
 
-- [The Telegraph - Royal Mail Scam](https://www.telegraph.co.uk/news/2021/03/28/exclusive-police-losing-battle-against-gangs-behind-surge-scam/)
+- [The Telegraph - Royal Mail SMS phishing campaigns](https://www.telegraph.co.uk/news/2021/03/28/exclusive-police-losing-battle-against-gangs-behind-surge-scam/)
 - [Vice - Workers Unite](https://www.vice.com/en/article/7kvvbb/argyle-payroll-login-phishing)
 - [HHS.gov - Malicious Use of Email Marketing Services](https://www.hhs.gov/sites/default/files/threat-posed-by-bulk-email-services.pdf)
 - [Microsoft 365 Defender Threat Intelligence Team - Franken-phish](https://www.microsoft.com/security/blog/2021/10/21/franken-phish-todayzoo-built-from-other-phishing-kits/)
