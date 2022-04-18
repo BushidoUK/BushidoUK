@@ -54,6 +54,7 @@
 - [Vice - Workers Unite](https://www.vice.com/en/article/7kvvbb/argyle-payroll-login-phishing)
 - [HHS.gov - Malicious Use of Email Marketing Services](https://www.hhs.gov/sites/default/files/threat-posed-by-bulk-email-services.pdf)
 - [Microsoft 365 Defender Threat Intelligence Team - Franken-phish](https://www.microsoft.com/security/blog/2021/10/21/franken-phish-todayzoo-built-from-other-phishing-kits/)
+- [Maltego - How Do You Run a Cybercrime Gang?](https://docs.maltego.com/support/solutions/articles/15000012022-use-cases)
 - [RISKIQ - Turkey Dog](https://www.riskiq.com/blog/external-threat-management/turkey-dog-covid-lures/)
 - [Rapid7 - REvil attack on Kaseya](https://www.rapid7.com/blog/post/2021/07/13/managed-service-providers-used-in-coordinated-mass-ransomware-attack-impacting-hundreds-of-companies/)
 - [Splunk - REvil attack on Kaseya](https://www.splunk.com/en_us/blog/security/kaseya-sera-what-revil-shall-encrypt-shall-encrypt.html)
