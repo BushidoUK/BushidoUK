@@ -48,9 +48,17 @@
 | DEFCON29 | BTV Presents: Threat Report Roulette | [YouTube](https://www.youtube.com/watch?v=rUAhYiDn0M0) |
 | BeerCon3 | Hacking-As-A-Service: Becoming An APT Is Easier Than Ever! | [Website](https://thebeerfarmers.org/beercon3-a-game-of-pwns/) |
 
+## 🎤 Podcasts:
+
+| Podcast | Topic(s) | URL |
+| --- | --- | --- |
+| Risky Biz News | Critical vulnerability (CVE-2022-1388) in F5 BIG-IP (from 8m 20s) | [risky.biz](https://risky.biz/RBNEWS7/) |
+| Technical Outcast | Conti Ransomware (from 30m 30s) | [spotify.com](https://open.spotify.com/episode/0NjzBFlzTJm2lBVbxksPyZ?si=y9J0QUvBSjehjMdCLBcHzw) |
+
 ## 📰 Features:
 
 - [The Telegraph - Royal Mail SMS phishing campaigns](https://www.telegraph.co.uk/news/2021/03/28/exclusive-police-losing-battle-against-gangs-behind-surge-scam/)
+- [The Telegraph - NB65 leverages Conti source code](https://archive.ph/OJQ9e#:~:text=William%20Thomas%2C%20a%20cybersecurity%20expert%20at%20Curated%20Intelligence%2C%20a%20research%20organisation%2C%20said%3A%20%E2%80%9CWe%20know%20NB65%20have%20made%20a%20modified%20version%20of%20Conti%20thanks%20to%20the%20sample%20on%20VirusTotal.%E2%80%9D)
 - [Vice - Workers Unite](https://www.vice.com/en/article/7kvvbb/argyle-payroll-login-phishing)
 - [HHS.gov - Malicious Use of Email Marketing Services](https://www.hhs.gov/sites/default/files/threat-posed-by-bulk-email-services.pdf)
 - [Microsoft 365 Defender Threat Intelligence Team - Franken-phish](https://www.microsoft.com/security/blog/2021/10/21/franken-phish-todayzoo-built-from-other-phishing-kits/)
@@ -101,3 +109,4 @@
 - [Phishunt.io - Community](https://phishunt.io/community/)
 - [MalOps - SharePoint Phishing](https://mal-ops.com/sharepoint-phishing-island-hopping/)
 - [Forcepoint - WastedLocker](https://www.forcepoint.com/blog/x-labs/shape-of-ransomware-to-come)
+- [KnowBe4 - Monzo Phishing Campaign](https://blog.knowbe4.com/new-phishing-campaign-angles-for-monzo-banking-customers)
