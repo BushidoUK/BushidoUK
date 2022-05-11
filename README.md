@@ -53,7 +53,7 @@
 | Podcast | Topic(s) | URL |
 | --- | --- | --- |
 | Risky Biz News | Critical vulnerability (CVE-2022-1388) in F5 BIG-IP (from 8m 20s) | [risky.biz](https://risky.biz/RBNEWS7/) |
-| Technical Outcast | Conti Ransomware (from 30m 30s) | [spotify.com](https://open.spotify.com/episode/0NjzBFlzTJm2lBVbxksPyZ?si=y9J0QUvBSjehjMdCLBcHzw) |
+| Technical Outcast | Curated Intelligence on the Conti Playbook leaks (from 30m 30s) | [spotify.com](https://open.spotify.com/episode/0NjzBFlzTJm2lBVbxksPyZ?si=y9J0QUvBSjehjMdCLBcHzw) |
 
 ## 📰 Features:
 
