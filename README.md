@@ -33,6 +33,7 @@
 - [Curated Intel: Log4Shell IOCs](https://github.com/curated-intel/Log4Shell-IOCs) - Vetted IOCs and analysis of threats leveraging Log4Shell
 - [Android Banking Trojan Nexus](https://github.com/BushidoUK/Android-Banking-Trojan-Nexus) - Centralised list of Android banking malware families
 - [Curated Intel: Ukraine Cyber Operations](https://github.com/curated-intel/Ukraine-Cyber-Operations) - Threat Intelligence to assist Ukrainian organisations
+- [Curated Intel: CTI Fundamentals](https://github.com/curated-intel/CTI-fundamentals) - A collection of essential resources related to CTI theory
 
 ## 💻 I’m currently working on:
 
