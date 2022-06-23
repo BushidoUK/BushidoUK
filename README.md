@@ -30,8 +30,8 @@
 - [CTI Quiz](https://github.com/BushidoUK/CTI-Quiz/blob/main/README.md) - 4 Topics of Multiple Practice Questions
 - [EternalLiberty](https://github.com/StrangerealIntel/EternalLiberty) - APT moniker database
 - [Abuse Legitimate Services](https://github.com/BushidoUK/Abused-Legitimate-Services) - List of services used for malware and phishing
-- [Curated Intel: Log4Shell IOCs](https://github.com/curated-intel/Log4Shell-IOCs) - Vetted IOCs and analysis of threats leveraging Log4Shell
 - [Android Banking Trojan Nexus](https://github.com/BushidoUK/Android-Banking-Trojan-Nexus) - Centralised list of Android banking malware families
+- [Curated Intel: Log4Shell IOCs](https://github.com/curated-intel/Log4Shell-IOCs) - Vetted IOCs and analysis of threats leveraging Log4Shell
 - [Curated Intel: Ukraine Cyber Operations](https://github.com/curated-intel/Ukraine-Cyber-Operations) - Threat Intelligence to assist Ukrainian organisations
 - [Curated Intel: CTI Fundamentals](https://github.com/curated-intel/CTI-fundamentals) - A collection of essential resources related to CTI theory
 
@@ -58,6 +58,7 @@
 
 ## 📰 Features:
 
+- [CISA.gov - Link to Curated Intel resource on Log4Shell ](https://www.cisa.gov/uscert/ncas/alerts/aa21-356a)
 - [The Telegraph - Royal Mail SMS phishing campaigns](https://www.telegraph.co.uk/news/2021/03/28/exclusive-police-losing-battle-against-gangs-behind-surge-scam/)
 - [The Telegraph - NB65 leverages Conti source code](https://archive.ph/OJQ9e#:~:text=William%20Thomas%2C%20a%20cybersecurity%20expert%20at%20Curated%20Intelligence%2C%20a%20research%20organisation%2C%20said%3A%20%E2%80%9CWe%20know%20NB65%20have%20made%20a%20modified%20version%20of%20Conti%20thanks%20to%20the%20sample%20on%20VirusTotal.%E2%80%9D)
 - [Vice - Workers Unite](https://www.vice.com/en/article/7kvvbb/argyle-payroll-login-phishing)
