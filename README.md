@@ -41,13 +41,13 @@
 
 ## 🎙 Talks:
 
-| Conference | Talk Title | URL |
-| --- | --- | --- |
-| conINT 2020 | Using Cyber Threat Intelligence to Defend against Ransomware | [YouTube](https://www.youtube.com/watch?v=QLz_6ghgNXA) |
-| BeerCon2 | Gone Phishin' / Attack of the phish (something something phishing) | [YouTube](https://www.youtube.com/watch?v=REVItTHz2-c) |
-| TMHC IsolationCon2 | Exploiting the Supply-Chain for Fun and Espionage | [Website](https://www.tmhcisolationcon.com/schedule/exploiting-the-supply-chain-for-fun-and-espionage/) |
-| DEFCON29 | BTV Presents: Threat Report Roulette | [YouTube](https://www.youtube.com/watch?v=rUAhYiDn0M0) |
-| BeerCon3 | Hacking-As-A-Service: Becoming An APT Is Easier Than Ever! | [Website](https://thebeerfarmers.org/beercon3-a-game-of-pwns/) |
+| Conference | Talk Title | URL | Slides |
+| --- | --- | --- | --- |
+| conINT 2020 | Using Cyber Threat Intelligence to Defend against Ransomware | [YouTube](https://www.youtube.com/watch?v=QLz_6ghgNXA) | [here](https://github.com/BushidoUK/BushidoUK/blob/master/conINT2020%20FINAL.pdf) |
+| BeerCon2 | Gone Phishin' / Attack of the phish (something something phishing) | [YouTube](https://www.youtube.com/watch?v=REVItTHz2-c) | [here](https://github.com/BushidoUK/BushidoUK/blob/master/BeerCon2%20FINAL.pdf) |
+| TMHC IsolationCon2 | Exploiting the Supply-Chain for Fun and Espionage | [Website](https://www.tmhcisolationcon.com/schedule/exploiting-the-supply-chain-for-fun-and-espionage/) | [here](https://github.com/BushidoUK/BushidoUK/blob/master/Supply-chain%20Espionage.pdf) |
+| DEFCON29 | Blue Team Village Panel: Threat Report Roulette | [YouTube](https://www.youtube.com/watch?v=rUAhYiDn0M0) | n/a |
+| BeerCon3 | Hacking-As-A-Service: Becoming An APT Is Easier Than Ever! | [Website](https://thebeerfarmers.org/beercon3-a-game-of-pwns/) | [here](https://github.com/BushidoUK/BushidoUK/blob/master/Hacking-as-a-Service_BeerCon3.pdf) |
 
 ## 🎤 Podcasts:
 
