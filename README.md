@@ -76,6 +76,7 @@
 - [The Register - Conti attack on HSE](https://www.theregister.com/2021/05/14/ireland_hse_ransomware_hospital_conti_wizardspider/)
 - [CyberScoop - Belarus Cyber Partisans](https://www.cyberscoop.com/cyber-partisans-belarus-russia-ukraine/)
 - [CyberScoop - Aviation RATs](https://www.cyberscoop.com/transportation-aviation-hacks-bec-initial-access/)
+- [CyberScoop - Exposing Ransomware Operators](https://www.cyberscoop.com/ransomware-doxxing-conti-cybercrime/)
 - [Bleeping Computer - APT Targeting Renewable Energy](https://www.bleepingcomputer.com/news/security/cyber-espionage-campaign-targets-renewable-energy-companies/)
 - [Bleeping Computer - Basecamp](https://www.bleepingcomputer.com/news/security/hackers-now-abuse-basecamp-for-free-malware-hosting/)
 - [Bleeping Computer - North Koreans Targeting Researchers](https://www.bleepingcomputer.com/news/security/north-korean-hackers-are-targeting-security-researchers-with-malware-0-days/)
