@@ -82,6 +82,8 @@
 - [Bleeping Computer - North Koreans Targeting Researchers](https://www.bleepingcomputer.com/news/security/north-korean-hackers-are-targeting-security-researchers-with-malware-0-days/)
 - [Bleeping Computer - BazarCall](https://www.bleepingcomputer.com/news/security/bazarcall-malware-uses-malicious-call-centers-to-infect-victims/)
 - [Bleeping Computer - Monzo phishing](https://www.bleepingcomputer.com/news/security/new-phishing-campaign-targets-monzo-online-banking-customers/)
+- [Bleeping Computer - Brute Ratel Cracked](https://www.bleepingcomputer.com/news/security/hackers-now-sharing-cracked-brute-ratel-post-exploitation-kit-online/)
+- [Security Affairs - Brute Ratel Cracked](https://securityaffairs.co/wordpress/136395/cyber-crime/brute-ratel-cracked-copy.html)
 - [PortSwigger - North Koreans APTs](https://portswigger.net/daily-swig/prominent-cybersecurity-researchers-among-those-targeted-in-north-korean-hacking-campaign)
 - [The Record - IcedID spam campaign](https://therecord.media/icedid-malware-gang-positioning-itself-as-one-of-the-emotet-replacements/)
 - [The Record - Passwordstate](https://therecord.media/password-manager-passwordstate-hacked-to-deploy-malware-on-customer-systems/)
