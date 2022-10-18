@@ -49,6 +49,7 @@
 | TMHC IsolationCon2 | Exploiting the Supply-Chain for Fun and Espionage | [Website](https://www.tmhcisolationcon.com/schedule/exploiting-the-supply-chain-for-fun-and-espionage/) | [here](https://github.com/BushidoUK/BushidoUK/blob/master/Supply-chain%20Espionage.pdf) |
 | DEFCON29 | Blue Team Village Panel: Threat Report Roulette | [YouTube](https://www.youtube.com/watch?v=rUAhYiDn0M0) | n/a |
 | BeerCon3 | Hacking-As-A-Service: Becoming An APT Is Easier Than Ever! | [Website](https://thebeerfarmers.org/beercon3-a-game-of-pwns/) | [here](https://github.com/BushidoUK/BushidoUK/blob/master/Hacking-as-a-Service_BeerCon3.pdf) |
+| BeerCon4 | Practical Vulnerability Intelligence | [YouTube](https://www.youtube.com/watch?v=QG_KQooMoQw&t=3s) | [here](https://github.com/BushidoUK/BushidoUK/blob/master/Practical_Vuln_Intel_BeerCon4.pdf) |
 
 ## 🎤 Podcasts:
 
@@ -56,10 +57,12 @@
 | --- | --- | --- |
 | Risky Biz News | Critical vulnerability (CVE-2022-1388) in F5 BIG-IP (from 8m 20s) | [risky.biz](https://risky.biz/RBNEWS7/) |
 | Technical Outcast | Curated Intelligence on the Conti Playbook leaks (from 30m 30s) | [spotify.com](https://open.spotify.com/episode/0NjzBFlzTJm2lBVbxksPyZ?si=y9J0QUvBSjehjMdCLBcHzw) |
+| Darknet Diaries #126 | REvil Ransomware | [darknetdiaries.com](https://darknetdiaries.com/episode/126/) |
 
 ## 📰 Features:
 
 - [CISA.gov - Link to Curated Intel resource on Log4Shell ](https://www.cisa.gov/uscert/ncas/alerts/aa21-356a)
+- [SANS Institute - Cracked Brute Ratel C4 framework proliferates across the cybercriminal underground](https://www.sans.org/blog/cracked-brute-ratel-c4-framework-proliferates-across-the-cybercriminal-underground/)
 - [The Telegraph - Royal Mail SMS phishing campaigns](https://www.telegraph.co.uk/news/2021/03/28/exclusive-police-losing-battle-against-gangs-behind-surge-scam/)
 - [The Telegraph - NB65 leverages Conti source code](https://archive.ph/OJQ9e#:~:text=William%20Thomas%2C%20a%20cybersecurity%20expert%20at%20Curated%20Intelligence%2C%20a%20research%20organisation%2C%20said%3A%20%E2%80%9CWe%20know%20NB65%20have%20made%20a%20modified%20version%20of%20Conti%20thanks%20to%20the%20sample%20on%20VirusTotal.%E2%80%9D)
 - [Vice - Workers Unite](https://www.vice.com/en/article/7kvvbb/argyle-payroll-login-phishing)
