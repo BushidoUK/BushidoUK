@@ -12,7 +12,7 @@
 - 🔭 I’m a Security Researcher working in Cyber Threat Intelligence 
 - 👉 Read about my first year in CTI [here](https://blog.bushidotoken.net/2020/08/my-first-year-in-cyber-threat.html)
 - ⚡ Fun fact: I discovered [OZH RAT](https://malpedia.caad.fkie.fraunhofer.de/details/win.ozh_rat)
-- 🕵️‍♂️ I've contributed to the Mitre ATT&CK framework - [TeamTNT](https://attack.mitre.org/groups/G0139/) 
+- 🕵️‍♂️ I've contributed to the Mitre ATT&CK framework - [TeamTNT](https://attack.mitre.org/groups/G0139/) & [SEO Poisoning](https://attack.mitre.org/techniques/T1608/006/)
 - ☣ Tweet about Malware Campaigns [here](https://twitter.com/search?q=from%3ABushidoToken%20%E2%98%A3&src=typed_query&f=live)
 - 🎣 Tweet Phishing Campaigns [here](https://twitter.com/search?q=from%3A%40BushidoToken%20phishing&src=typed_query&f=live)
 - 🎤 Take a look at an Interview I did with TheSecurityNoob blog [here](https://thesecuritynoob.com/interviews/interview-with-security-researcher-speaker-will-thomas-bushidotoken/) 
