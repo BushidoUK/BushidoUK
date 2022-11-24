@@ -106,6 +106,8 @@
 - [ESET Research - GMERA](https://twitter.com/ESETresearch/status/1407952001456033792)
 - [SecurityWeek - APT campaign targeting EMEA and APAC governments](https://www.securityweek.com/ongoing-phishing-campaign-targets-apac-emea-governments)
 - [SecurityWeek - ICS Vendors Targeted in Espionage Campaign Focusing on Renewable Energy](https://www.securityweek.com/ics-vendors-targeted-espionage-campaign-focusing-renewable-energy)
+- [Risky Biz News - The Continuity of Conti](https://riskybiznews.substack.com/p/risky-biz-news-cyber-partisans-hack)
+- [Risky Biz News - Darth Maul Market](https://riskybiznews.substack.com/p/risky-biz-news-clarifying-the-dod)
 - [Arstechnica - APT31](https://arstechnica.com/gadgets/2021/07/home-and-office-routers-come-under-attack-by-china-state-hackers-france-warns/)
 - [Softpedia - APT31](https://news.softpedia.com/news/home-and-office-routers-are-targeted-by-chinese-state-hackers-533547.shtml)
 - [CyberWire - Passwordstate](https://thecyberwire.com/newsletters/privacy-briefing/3/79)
