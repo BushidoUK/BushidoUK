@@ -16,6 +16,7 @@
 - ☣ Tweet about Malware Campaigns [here](https://twitter.com/search?q=from%3ABushidoToken%20%E2%98%A3&src=typed_query&f=live)
 - 🎣 Tweet Phishing Campaigns [here](https://twitter.com/search?q=from%3A%40BushidoToken%20phishing&src=typed_query&f=live)
 - 🎤 Take a look at an Interview I did with TheSecurityNoob blog [here](https://thesecuritynoob.com/interviews/interview-with-security-researcher-speaker-will-thomas-bushidotoken/) 
+- 🔟 On the SOCRadar 'Top 10 Twitter Accounts to Follow for Threat Intelligence' [here](https://socradar.io/top-10-twitter-accounts-to-follow-for-threat-intelligence/)
 - 💻 Previously worked for Cyjax, read my Research Blogs [here](https://www.cyjax.com/author/will/)
 - 🌐 Currently working at the Equinix Threat Analysis Center (ETAC)
 
