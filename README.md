@@ -112,6 +112,7 @@
 - [SecurityWeek - ICS Vendors Targeted in Espionage Campaign Focusing on Renewable Energy](https://www.securityweek.com/ics-vendors-targeted-espionage-campaign-focusing-renewable-energy)
 - [Risky Biz News - The Continuity of Conti](https://riskybiznews.substack.com/p/risky-biz-news-cyber-partisans-hack)
 - [Risky Biz News - Darth Maul Market](https://riskybiznews.substack.com/p/risky-biz-news-clarifying-the-dod)
+- [Risky Biz News - RedZei](https://riskybiznews.substack.com/p/risky-biz-news-slack-discloses-security)
 - [Arstechnica - APT31](https://arstechnica.com/gadgets/2021/07/home-and-office-routers-come-under-attack-by-china-state-hackers-france-warns/)
 - [Cybersecurity Dive - Ransomware Identity Crisis](https://www.cybersecuritydive.com/news/ransomware-ryuk-conti-revil-2021/608845/)
 - [CyberWire - Passwordstate](https://thecyberwire.com/newsletters/privacy-briefing/3/79)
