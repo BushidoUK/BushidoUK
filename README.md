@@ -78,6 +78,8 @@
 - [VirusTotal Blog - North Korean APT using the Amadey Trojan](https://blog.virustotal.com/2021/07/having-right-tool-for-job.html)
 - [Proofpoint - Charting TA2541's Flight](https://www.proofpoint.com/us/blog/threat-insight/charting-ta2541s-flight)
 - [CyberDefenders - L'espion OSINT CTF](https://cyberdefenders.org/labs/73)
+- [The Hacker News - RedZei](https://thehackernews.com/2023/01/redzei-chinese-scammers-targeting.html)
+- [DarkReading - RedZei](https://www.darkreading.com/attacks-breaches/chinese-redzei-victims-vishing)
 - [The Register - Conti attack on HSE](https://www.theregister.com/2021/05/14/ireland_hse_ransomware_hospital_conti_wizardspider/)
 - [CyberScoop - Belarus Cyber Partisans](https://www.cyberscoop.com/cyber-partisans-belarus-russia-ukraine/)
 - [CyberScoop - Aviation RATs](https://www.cyberscoop.com/transportation-aviation-hacks-bec-initial-access/)
