@@ -90,6 +90,8 @@
 - [Bleeping Computer - BazarCall](https://www.bleepingcomputer.com/news/security/bazarcall-malware-uses-malicious-call-centers-to-infect-victims/)
 - [Bleeping Computer - Monzo phishing](https://www.bleepingcomputer.com/news/security/new-phishing-campaign-targets-monzo-online-banking-customers/)
 - [Bleeping Computer - Brute Ratel Cracked](https://www.bleepingcomputer.com/news/security/hackers-now-sharing-cracked-brute-ratel-post-exploitation-kit-online/)
+- [Bleeping Computer - ESXi Linux version of Royal Ransomware](https://www.bleepingcomputer.com/news/security/linux-version-of-royal-ransomware-targets-vmware-esxi-servers/)
+- [Bleeping Computer - Coinbase SMS attacks](https://www.bleepingcomputer.com/news/security/coinbase-cyberattack-targeted-employees-with-fake-sms-alert/)
 - [Security Affairs - Brute Ratel Cracked](https://securityaffairs.co/wordpress/136395/cyber-crime/brute-ratel-cracked-copy.html)
 - [PortSwigger - North Koreans APTs](https://portswigger.net/daily-swig/prominent-cybersecurity-researchers-among-those-targeted-in-north-korean-hacking-campaign)
 - [The Record - IcedID spam campaign](https://therecord.media/icedid-malware-gang-positioning-itself-as-one-of-the-emotet-replacements/)
