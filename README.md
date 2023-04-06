@@ -59,6 +59,7 @@
 | Risky Biz News | Critical vulnerability (CVE-2022-1388) in F5 BIG-IP (from 8m 20s) | [risky.biz](https://risky.biz/RBNEWS7/) |
 | Technical Outcast | Curated Intelligence on the Conti Playbook leaks (from 30m 30s) | [spotify.com](https://open.spotify.com/episode/0NjzBFlzTJm2lBVbxksPyZ?si=y9J0QUvBSjehjMdCLBcHzw) |
 | Darknet Diaries #126 | REvil Ransomware | [darknetdiaries.com](https://darknetdiaries.com/episode/126/) |
+| Click Here by Recorded Future News | Breach Forums Takedown | [twitter.com/ClickHereShow](https://twitter.com/ClickHereShow/status/1641468576275238912?s=20) |
 
 ## 📰 Features:
 
@@ -85,6 +86,7 @@
 - [CyberScoop - Belarus Cyber Partisans](https://www.cyberscoop.com/cyber-partisans-belarus-russia-ukraine/)
 - [CyberScoop - Aviation RATs](https://www.cyberscoop.com/transportation-aviation-hacks-bec-initial-access/)
 - [CyberScoop - Exposing Ransomware Operators](https://www.cyberscoop.com/ransomware-doxxing-conti-cybercrime/)
+- [CyberScoop - Breach Forums Takedown](https://cyberscoop.com/breachforums-arrest-cybercrime-underground/)
 - [Bleeping Computer - APT Targeting Renewable Energy](https://www.bleepingcomputer.com/news/security/cyber-espionage-campaign-targets-renewable-energy-companies/)
 - [Bleeping Computer - Basecamp](https://www.bleepingcomputer.com/news/security/hackers-now-abuse-basecamp-for-free-malware-hosting/)
 - [Bleeping Computer - North Koreans Targeting Researchers](https://www.bleepingcomputer.com/news/security/north-korean-hackers-are-targeting-security-researchers-with-malware-0-days/)
