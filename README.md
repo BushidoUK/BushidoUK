@@ -60,6 +60,7 @@
 | Technical Outcast | Curated Intelligence on the Conti Playbook leaks (from 30m 30s) | [spotify.com](https://open.spotify.com/episode/0NjzBFlzTJm2lBVbxksPyZ?si=y9J0QUvBSjehjMdCLBcHzw) |
 | Darknet Diaries #126 | REvil Ransomware | [darknetdiaries.com](https://darknetdiaries.com/episode/126/) |
 | Click Here by Recorded Future News | Breach Forums Takedown | [twitter.com/ClickHereShow](https://twitter.com/ClickHereShow/status/1641468576275238912?s=20) |
+| MyOSINT Training | Part of the ["Careers Using OSINT Skills"](https://www.myosint.training/courses/careers-using-osint-skills) series | [YouTube](https://www.youtube.com/watch?v=-mHAOUn09RE) |
 
 ## 📰 Features:
 
