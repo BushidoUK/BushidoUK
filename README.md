@@ -9,7 +9,7 @@
 
 ## 👋 Intro:
 
-- 🔭 I’m a Security Researcher working in Cyber Threat Intelligence 
+- 🔭 I’m a Security Researcher working in Cyber Threat Intelligence since 2019
 - 👉 Read about my first year in CTI [here](https://blog.bushidotoken.net/2020/08/my-first-year-in-cyber-threat.html)
 - ⚡ Fun fact: I discovered [OZH RAT](https://malpedia.caad.fkie.fraunhofer.de/details/win.ozh_rat) and [TitanStealer](https://malpedia.caad.fkie.fraunhofer.de/details/win.titan_stealer)
 - 🕵️‍♂️ I've contributed to the Mitre ATT&CK framework - [TeamTNT](https://attack.mitre.org/groups/G0139/) & [SEO Poisoning](https://attack.mitre.org/techniques/T1608/006/)
@@ -20,7 +20,7 @@
 - 💻 Previously worked for Cyjax, read my Research Blogs [here](https://www.cyjax.com/author/will/)
 - 🌐 Currently working at the Equinix Threat Analysis Center (ETAC)
 
-## 🤖 Projects:
+## 🤖 My Projects:
 
 - [Open sources tools for CTI](https://github.com/BushidoUK/Open-source-tools-for-CTI/blob/master/README.md) - Collection of resources for OSINT analysis
 - [Exploring APT campaigns](https://github.com/BushidoUK/Exploring-APT-campaigns) - VirusTotal Graphs and Maltego Diagrams
@@ -30,13 +30,17 @@
 - [OSINT Search Operators](https://github.com/BushidoUK/OSINT-SearchOperators)- Shodan Queries and Google Dorks
 - [CTI Lexicon](https://github.com/BushidoUK/CTI-Lexicon/blob/main/Lexicon.md)- Acronyms and Technical Jargon
 - [CTI Quiz](https://github.com/BushidoUK/CTI-Quiz/blob/main/README.md) - 4 Topics of Multiple Practice Questions
-- [EternalLiberty](https://github.com/StrangerealIntel/EternalLiberty) - APT moniker database
 - [Abuse Legitimate Services](https://github.com/BushidoUK/Abused-Legitimate-Services) - List of services used for malware and phishing
 - [Android Banking Trojan Nexus](https://github.com/BushidoUK/Android-Banking-Trojan-Nexus) - Centralised list of Android banking malware families
 - [Breach Report Collection](https://github.com/BushidoUK/Breach-Report-Collection) - Collection of breach reports for case studies
+
+## 🌐 Community Projects:
+
+- [EternalLiberty](https://github.com/StrangerealIntel/EternalLiberty) - APT moniker database
 - [Curated Intel: Log4Shell IOCs](https://github.com/curated-intel/Log4Shell-IOCs) - Vetted IOCs and analysis of threats leveraging Log4Shell
 - [Curated Intel: Ukraine Cyber Operations](https://github.com/curated-intel/Ukraine-Cyber-Operations) - Threat Intelligence to assist Ukrainian organisations
 - [Curated Intel: CTI Fundamentals](https://github.com/curated-intel/CTI-fundamentals) - A collection of essential resources related to CTI theory
+- [Curated Intel: MOVEit Transfer Campaign Tracking](https://github.com/curated-intel/MOVEit-Transfer) - Tracking events related to the MOVEit campaign
 
 ## 💻 I’m currently working on:
 
