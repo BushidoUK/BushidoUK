@@ -70,9 +70,11 @@
 | Darknet Diaries #126 | REvil Ransomware | [darknetdiaries.com](https://darknetdiaries.com/episode/126/) |
 | Click Here by Recorded Future News | Breach Forums Takedown | [twitter.com/ClickHereShow](https://twitter.com/ClickHereShow/status/1641468576275238912?s=20) |
 | MyOSINT Training | Part of the ["Careers Using OSINT Skills"](https://www.myosint.training/courses/careers-using-osint-skills) series | [YouTube](https://www.youtube.com/watch?v=-mHAOUn09RE) |
+| Infosecurity Magazine | Inside the MOVEit Attack: Decrypting Clop's TTPs and Empowering Cybersecurity Practitioners (from 16m 21s) | [infosecurity-magazine.com](https://www.infosecurity-magazine.com/podcasts/infosec-mag-pod-july-2023/) |
 
 ## 📰 Features:
 
+- [CERT Ukraine - APT28 (UAC-0028)](https://cert.gov.ua/article/5105791)
 - [CISA.gov - Link to Curated Intel resource on Log4Shell ](https://www.cisa.gov/uscert/ncas/alerts/aa21-356a)
 - [SANS Institute - Cracked Brute Ratel C4 framework proliferates across the cybercriminal underground](https://www.sans.org/blog/cracked-brute-ratel-c4-framework-proliferates-across-the-cybercriminal-underground/)
 - [The Telegraph - Royal Mail SMS phishing campaigns](https://www.telegraph.co.uk/news/2021/03/28/exclusive-police-losing-battle-against-gangs-behind-surge-scam/)
@@ -89,6 +91,7 @@
 - [VirusTotal Blog - North Korean APT using the Amadey Trojan](https://blog.virustotal.com/2021/07/having-right-tool-for-job.html)
 - [Proofpoint - Charting TA2541's Flight](https://www.proofpoint.com/us/blog/threat-insight/charting-ta2541s-flight)
 - [CyberDefenders - L'espion OSINT CTF](https://cyberdefenders.org/labs/73)
+- [Infosecurity Magazine - LockBit Claims TSMC Hack](https://www.infosecurity-magazine.com/news/lockbit-claims-tsmc-hack-70m-ransom/)
 - [The Hacker News - TitanStealer](https://thehackernews.com/2023/01/titan-stealer-new-golang-based.html)
 - [The Hacker News - RedZei](https://thehackernews.com/2023/01/redzei-chinese-scammers-targeting.html)
 - [DarkReading - RedZei](https://www.darkreading.com/attacks-breaches/chinese-redzei-victims-vishing)
@@ -108,6 +111,7 @@
 - [Bleeping Computer - Coinbase SMS attacks](https://www.bleepingcomputer.com/news/security/coinbase-cyberattack-targeted-employees-with-fake-sms-alert/)
 - [Bleeping Computer - Dragos Security Incident](https://www.bleepingcomputer.com/news/security/cybersecurity-firm-dragos-discloses-cybersecurity-incident-extortion-attempt/)
 - [Security Affairs - Brute Ratel Cracked](https://securityaffairs.co/wordpress/136395/cyber-crime/brute-ratel-cracked-copy.html)
+- [Security Affairs - CL0P claims ICS vendors](https://securityaffairs.com/147865/data-breach/schneider-electric-siemens-energy-moveit.html)
 - [PortSwigger - North Koreans APTs](https://portswigger.net/daily-swig/prominent-cybersecurity-researchers-among-those-targeted-in-north-korean-hacking-campaign)
 - [The Record - IcedID spam campaign](https://therecord.media/icedid-malware-gang-positioning-itself-as-one-of-the-emotet-replacements/)
 - [The Record - Passwordstate](https://therecord.media/password-manager-passwordstate-hacked-to-deploy-malware-on-customer-systems/)
