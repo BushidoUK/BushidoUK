@@ -16,7 +16,7 @@
 - 👉 Read about my first year in CTI [here](https://blog.bushidotoken.net/2020/08/my-first-year-in-cyber-threat.html)
 - ⚡ Fun fact: I discovered [OZH RAT](https://malpedia.caad.fkie.fraunhofer.de/details/win.ozh_rat) and [TitanStealer](https://malpedia.caad.fkie.fraunhofer.de/details/win.titan_stealer)
 - 🕵️‍♂️ I've contributed to the Mitre ATT&CK framework - [TeamTNT](https://attack.mitre.org/groups/G0139/) & [SEO Poisoning](https://attack.mitre.org/techniques/T1608/006/)
-- 🎤 Take a look at an Interview I did with TheSecurityNoob blog [here](https://thesecuritynoob.com/interviews/interview-with-security-researcher-speaker-will-thomas-bushidotoken/) 
+- 🎤 My Interview with TheSecurityNoob blog [here](https://thesecuritynoob.com/interviews/interview-with-security-researcher-speaker-will-thomas-bushidotoken/) 
 - 🔟 On the SOCRadar 'Top 10 Twitter Accounts to Follow for Threat Intelligence' [here](https://socradar.io/top-10-twitter-accounts-to-follow-for-threat-intelligence/)
 - 🏅 On the SentinelOne '23 Influential Accounts to Follow in 2023' [here](https://www.sentinelone.com/blog/navigating-the-cybersecurity-twitterverse-23-influential-accounts-to-follow-in-2023/)
 - 📚 I create my own Hacker Fiction stories (with a little help from AI) [here](https://hackerfiction.medium.com/)
