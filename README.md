@@ -44,6 +44,7 @@
 - [Curated Intel: Ukraine Cyber Operations](https://github.com/curated-intel/Ukraine-Cyber-Operations) - Threat Intelligence to assist Ukrainian organisations
 - [Curated Intel: CTI Fundamentals](https://github.com/curated-intel/CTI-fundamentals) - A collection of essential resources related to CTI theory
 - [Curated Intel: MOVEit Transfer Campaign Tracking](https://github.com/curated-intel/MOVEit-Transfer) - Tracking events related to the MOVEit campaign
+- [Curated Intel: Threat Actor Profile Guide](https://github.com/curated-intel/Threat-Actor-Profile-Guide) - A guide for CTI analysts
 
 ## 💻 I’m currently working on:
 
