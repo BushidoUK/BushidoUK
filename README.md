@@ -36,6 +36,7 @@
 - [Abuse Legitimate Services](https://github.com/BushidoUK/Abused-Legitimate-Services) - List of services used for malware and phishing
 - [Android Banking Trojan Nexus](https://github.com/BushidoUK/Android-Banking-Trojan-Nexus) - Centralised list of Android banking malware families
 - [Breach Report Collection](https://github.com/BushidoUK/Breach-Report-Collection) - Collection of breach reports for case studies
+- [Cybercrime Police Raids](https://github.com/BushidoUK/Cybercrime-Police-Raids) - Collection of raids on cybercriminals by police for case studies
 
 ## 🌐 Community Projects:
 
