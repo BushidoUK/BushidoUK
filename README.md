@@ -12,7 +12,7 @@
 - 🔭 I’m a Security Researcher working in Cyber Threat Intelligence since 2019
 - 🎓 BSc (Hons) Graduate of Computer and Information Security
 - 📜 Student of SANS FOR578 and earned the GIAC GCTI certification
-- 📝 [Co-Author and Instructor](https://www.sans.org/profiles/will-thomas/) of the [SANS FOR589 Cybercrime Intelligence](https://www.sans.org/blog/for589-dark-web-threat-hunting-blockchain-forensics/) course
+- 📝 [Co-Author and Instructor](https://www.sans.org/profiles/will-thomas/) of the [SANS FOR589 Cybercrime Intelligence](https://www.sans.org/blog/for589-cybercrime-intelligence/) course
 - 👉 Read about my first year in CTI [here](https://blog.bushidotoken.net/2020/08/my-first-year-in-cyber-threat.html)
 - ⚡ Fun fact: I discovered [OZH RAT](https://malpedia.caad.fkie.fraunhofer.de/details/win.ozh_rat) and [TitanStealer](https://malpedia.caad.fkie.fraunhofer.de/details/win.titan_stealer)
 - 🕵️‍♂️ I've contributed to the Mitre ATT&CK framework - [TeamTNT](https://attack.mitre.org/groups/G0139/) & [SEO Poisoning](https://attack.mitre.org/techniques/T1608/006/)
