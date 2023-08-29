@@ -37,6 +37,7 @@
 - [Android Banking Trojan Nexus](https://github.com/BushidoUK/Android-Banking-Trojan-Nexus) - Centralised list of Android banking malware families
 - [Breach Report Collection](https://github.com/BushidoUK/Breach-Report-Collection) - Collection of breach reports for case studies
 - [Cybercrime Police Raids](https://github.com/BushidoUK/Cybercrime-Police-Raids) - Collection of raids on cybercriminals by police for case studies
+- [UK Critical Infrastructure](https://github.com/BushidoUK/UK-Critical-Infrastructure) - Collection of case reports of attacks on UK CNI for case studies
 
 ## 🌐 Community Projects:
 
