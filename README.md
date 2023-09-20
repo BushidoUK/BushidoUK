@@ -86,7 +86,7 @@
 - [The Telegraph - NB65 leverages Conti source code](https://archive.ph/OJQ9e#:~:text=William%20Thomas%2C%20a%20cybersecurity%20expert%20at%20Curated%20Intelligence%2C%20a%20research%20organisation%2C%20said%3A%20%E2%80%9CWe%20know%20NB65%20have%20made%20a%20modified%20version%20of%20Conti%20thanks%20to%20the%20sample%20on%20VirusTotal.%E2%80%9D)
 - [Vice Motherboard - Workers Unite](https://www.vice.com/en/article/7kvvbb/argyle-payroll-login-phishing)
 - [HHS.gov - Malicious Use of Email Marketing Services](https://www.hhs.gov/sites/default/files/threat-posed-by-bulk-email-services.pdf)
-- [HHS.gpv - Abuse of Legitimate Security Tools and Health Sector Cybersecurity](https://www.aha.org/system/files/media/file/2022/10/hhs-ocio-hc3-tlp-white-october-6-threat-brief-abuse-of-legitimate-security-tools-and-the-hph.pdf)
+- [HHS.gov - Abuse of Legitimate Security Tools and Health Sector Cybersecurity](https://www.aha.org/system/files/media/file/2022/10/hhs-ocio-hc3-tlp-white-october-6-threat-brief-abuse-of-legitimate-security-tools-and-the-hph.pdf)
 - [Microsoft 365 Defender Threat Intelligence Team - Franken-phish](https://www.microsoft.com/security/blog/2021/10/21/franken-phish-todayzoo-built-from-other-phishing-kits/)
 - [Microsoft 365 Defender Threat Intelligence Team - The Conti Leaks](https://www.microsoft.com/security/blog/2022/06/01/using-python-to-unearth-a-goldmine-of-threat-intelligence-from-leaked-chat-logs/)
 - [Maltego - How Do You Run a Cybercrime Gang?](https://docs.maltego.com/support/solutions/articles/15000012022-use-cases)
