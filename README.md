@@ -76,6 +76,7 @@
 | MyOSINT Training | Part of the ["Careers Using OSINT Skills"](https://www.myosint.training/courses/careers-using-osint-skills) series | [YouTube](https://www.youtube.com/watch?v=-mHAOUn09RE) |
 | Infosecurity Magazine | Inside the MOVEit Attack: Decrypting Clop's TTPs and Empowering Cybersecurity Practitioners (from 16m 21s) | [infosecurity-magazine.com](https://www.infosecurity-magazine.com/podcasts/infosec-mag-pod-july-2023/) |
 | SANS Wait Just An Infosec | In Hot Pursuit: Tracking Ransomware Actors (from 13m 00s) | [linkedin.com](https://www.linkedin.com/events/inhotpursuit-trackingransomware7097598306159054848/comments/) |
+| SANS Threat Analysis Rundown (STAR) | Disccusing Threats from Week 43 of 2023 | [linkedin.com](https://www.linkedin.com/events/sansthreatanalysisrundown-star7116090847212834816/comments/) |
 
 ## 📰 Features:
 
