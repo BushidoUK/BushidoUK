@@ -45,10 +45,6 @@
 - [Curated Intel: MOVEit Transfer Campaign Tracking](https://github.com/curated-intel/MOVEit-Transfer) - Tracking events related to the MOVEit campaign
 - [Curated Intel: Threat Actor Profile Guide](https://github.com/curated-intel/Threat-Actor-Profile-Guide) - A guide for CTI analysts
 
-## 💻 I’m currently working on:
-
-[![BushidoUK's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=BushidoUK&repo=open-source-tools-for-cti&show_icons=true&title_color=3996ff&icon_color=79ff97&text_color=fff&bg_color=151515)](https://github.com/BushidoUK/Open-source-tools-for-CTI/blob/master/README.md)
-
 ## 🎙 Talks:
 
 | Conference | Talk Title | URL | Slides |
