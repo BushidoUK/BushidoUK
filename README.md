@@ -1,4 +1,4 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BushidoUK&show_icons=true&title_color=3996ff&icon_color=79ff97&text_color=fff&bg_color=151515)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BushidoUK&rank_icon=github&title_color=3996ff&icon_color=79ff97&text_color=fff&bg_color=151515&hide=issues)
 
 [![Website2](https://img.shields.io/badge/CuratedIntel.org-white)](https://curatedintel.org)
 [![BugCrowd](https://img.shields.io/badge/BugCrowd-grey)](https://bugcrowd.com/BushidoToken)
