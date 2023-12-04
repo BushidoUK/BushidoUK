@@ -16,9 +16,6 @@
 - 👉 Read about my first year in CTI [here](https://blog.bushidotoken.net/2020/08/my-first-year-in-cyber-threat.html)
 - ⚡ Fun fact: I discovered [OZH RAT](https://malpedia.caad.fkie.fraunhofer.de/details/win.ozh_rat) and [TitanStealer](https://malpedia.caad.fkie.fraunhofer.de/details/win.titan_stealer)
 - 🕵️‍♂️ I've contributed to the Mitre ATT&CK framework - [TeamTNT](https://attack.mitre.org/groups/G0139/) & [SEO Poisoning](https://attack.mitre.org/techniques/T1608/006/)
-- 🎤 My Interview with TheSecurityNoob blog [here](https://thesecuritynoob.com/interviews/interview-with-security-researcher-speaker-will-thomas-bushidotoken/) 
-- 🔟 On the SOCRadar 'Top 10 Twitter Accounts to Follow for Threat Intelligence' [here](https://socradar.io/top-10-twitter-accounts-to-follow-for-threat-intelligence/)
-- 🏅 On the SentinelOne '23 Influential Accounts to Follow in 2023' [here](https://www.sentinelone.com/blog/navigating-the-cybersecurity-twitterverse-23-influential-accounts-to-follow-in-2023/)
 - 📚 I create my own Hacker Fiction stories (with a little help from AI) [here](https://hackerfiction.medium.com/)
 - 💻 Previously worked for Cyjax, read my Research Blogs [here](https://www.cyjax.com/author/will/)
 - 🌐 Currently working at the Equinix Threat Analysis Center (ETAC)
@@ -96,6 +93,9 @@
 
 ## 🏢 Infosec Vendor & Community Features:
 
+- 🎤 My Interview with TheSecurityNoob blog [here](https://thesecuritynoob.com/interviews/interview-with-security-researcher-speaker-will-thomas-bushidotoken/) 
+- 🔟 On the SOCRadar 'Top 10 Twitter Accounts to Follow for Threat Intelligence' [here](https://socradar.io/top-10-twitter-accounts-to-follow-for-threat-intelligence/)
+- 🏅 On the SentinelOne '23 Influential Accounts to Follow in 2023' [here](https://www.sentinelone.com/blog/navigating-the-cybersecurity-twitterverse-23-influential-accounts-to-follow-in-2023/)
 - [Microsoft 365 Defender Threat Intelligence Team - Franken-phish](https://www.microsoft.com/security/blog/2021/10/21/franken-phish-todayzoo-built-from-other-phishing-kits/)
 - [Microsoft 365 Defender Threat Intelligence Team - The Conti Leaks](https://www.microsoft.com/security/blog/2022/06/01/using-python-to-unearth-a-goldmine-of-threat-intelligence-from-leaked-chat-logs/)
 - [Maltego - How Do You Run a Cybercrime Gang?](https://docs.maltego.com/support/solutions/articles/15000012022-use-cases)
