@@ -39,7 +39,7 @@
 ![BushidoUK's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=BushidoUK&repo=Open-source-tools-for-CTI&show_icons=true&title_color=3996ff&icon_color=79ff97&text_color=fff&bg_color=151515)
 ![BushidoUK's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=BushidoUK&repo=Breach-Report-Collection&show_icons=true&title_color=3996ff&icon_color=79ff97&text_color=fff&bg_color=151515)
 
-## 🌐 Community Projects:
+## 🌐 My Community Projects:
 
 - [EternalLiberty](https://github.com/StrangerealIntel/EternalLiberty) - APT moniker database
 - [Curated Intel: Log4Shell IOCs](https://github.com/curated-intel/Log4Shell-IOCs) - Vetted IOCs and analysis of threats leveraging Log4Shell
@@ -51,7 +51,7 @@
 ![Curated-Intel's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=curated-intel&repo=Ukraine-Cyber-Operations&show_icons=true&title_color=3996ff&icon_color=79ff97&text_color=fff&bg_color=151515)
 ![Curated-Intel's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=curated-intel&repo=CTI-fundamentals&show_icons=true&title_color=3996ff&icon_color=79ff97&text_color=fff&bg_color=151515)
 
-## 🎙 Talks:
+## 🎙 My Talks:
 
 | Conference | Talk Title | URL | Slides |
 | --- | --- | --- | --- |
@@ -77,14 +77,14 @@
 | SANS Wait Just An Infosec | In Hot Pursuit: Tracking Ransomware Actors (from 13m 00s) | [linkedin.com](https://www.linkedin.com/events/inhotpursuit-trackingransomware7097598306159054848/comments/) |
 | SANS Threat Analysis Rundown (STAR) | Disccusing Threats from Week 43 of 2023 | [linkedin.com](https://www.linkedin.com/events/sansthreatanalysisrundown-star7116090847212834816/comments/) |
 
-## 🏛️ Government Features:
+## 🏛️ My Government Features:
 
 - [CISA.gov - Link to Curated Intel resource on Log4Shell ](https://www.cisa.gov/uscert/ncas/alerts/aa21-356a)
 - [HHS.gov - Malicious Use of Email Marketing Services](https://www.hhs.gov/sites/default/files/threat-posed-by-bulk-email-services.pdf)
 - [HHS.gov - Abuse of Legitimate Security Tools and Health Sector Cybersecurity](https://www.aha.org/system/files/media/file/2022/10/hhs-ocio-hc3-tlp-white-october-6-threat-brief-abuse-of-legitimate-security-tools-and-the-hph.pdf)
 - [CERT Ukraine - APT28 (UAC-0028)](https://cert.gov.ua/article/5105791)
 
-## 📰 MSM & Tech News Features:
+## 📰 My MSM & Tech News Features:
 
 - [CNN - LockBit attack on ICBC](https://edition.cnn.com/2023/11/10/tech/ransomware-attack-industrial-and-commercial-bank-of-china-financial-sector/index.html)
 - [The Telegraph - Royal Mail SMS phishing campaigns](https://www.telegraph.co.uk/news/2021/03/28/exclusive-police-losing-battle-against-gangs-behind-surge-scam/)
@@ -93,7 +93,7 @@
 - [TechCrunch - Israel/Hamas War Hacktivism](https://techcrunch.com/2023/10/09/hacktivism-erupts-in-response-to-hamas-israel-war/)
 - [WIRED - Israel/Hamas War Hacktivism](https://www.wired.com/story/israel-hamas-war-hacktivism/)
 
-## 🏢 Infosec Vendor & Community Features:
+## 🏢 My Infosec Vendor & Community Features:
 
 - 🎤 My Interview with TheSecurityNoob blog [here](https://thesecuritynoob.com/interviews/interview-with-security-researcher-speaker-will-thomas-bushidotoken/) 
 - 🔟 On the SOCRadar 'Top 10 Twitter Accounts to Follow for Threat Intelligence' [here](https://socradar.io/top-10-twitter-accounts-to-follow-for-threat-intelligence/)
@@ -112,7 +112,7 @@
 - [SANS OSINT Summit - Discord for CTI](https://www.sans.org/blog/list-of-resource-links-from-open-source-intelligence-summit-2021/)
 - [Phishunt.io - Community](https://phishunt.io/community/)
 
-## 🗞️ Infosec News Features:
+## 🗞️ My Infosec News Features:
 
 - [Bleeping Computer - APT Targeting Renewable Energy](https://www.bleepingcomputer.com/news/security/cyber-espionage-campaign-targets-renewable-energy-companies/)
 - [Bleeping Computer - Basecamp](https://www.bleepingcomputer.com/news/security/hackers-now-abuse-basecamp-for-free-malware-hosting/)
