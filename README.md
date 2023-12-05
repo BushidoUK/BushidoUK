@@ -36,7 +36,7 @@
 - [Cybercrime Police Raids](https://github.com/BushidoUK/Cybercrime-Police-Raids) - Collection of raids on cybercriminals by police for case studies
 - [UK Critical Infrastructure](https://github.com/BushidoUK/UK-Critical-Infrastructure) - Collection of case reports of attacks on UK CNI for case studies
 
-![BushidoUK's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=BushidoUK&repo=Open-source-tools-for-CTI&show_icons=true&title_color=3996ff&icon_color=79ff97&text_color=fff&bg_color=151515)
+![(BushidoUK's GitHub stats)[https://github.com/BushidoUK/Open-source-tools-for-CTI]](https://github-readme-stats.vercel.app/api/pin/?username=BushidoUK&repo=Open-source-tools-for-CTI&show_icons=true&title_color=3996ff&icon_color=79ff97&text_color=fff&bg_color=151515)
 ![BushidoUK's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=BushidoUK&repo=Breach-Report-Collection&show_icons=true&title_color=3996ff&icon_color=79ff97&text_color=fff&bg_color=151515)
 
 ## 🌐 Community Projects:
