@@ -155,3 +155,4 @@
 - [Security Affairs - CL0P claims ICS vendors](https://securityaffairs.com/147865/data-breach/schneider-electric-siemens-energy-moveit.html)
 - [SecurityWeek - APT campaign targeting EMEA and APAC governments](https://www.securityweek.com/ongoing-phishing-campaign-targets-apac-emea-governments)
 - [SecurityWeek - ICS Vendors Targeted in Espionage Campaign Focusing on Renewable Energy](https://www.securityweek.com/ics-vendors-targeted-espionage-campaign-focusing-renewable-energy)
+- [Bank Info Security - iSOON Leak](https://www.bankinfosecurity.com/chinese-hacking-contractor-isoon-leaks-internal-documents-a-24405)
