@@ -35,6 +35,7 @@
 - [Breach Report Collection](https://github.com/BushidoUK/Breach-Report-Collection) - Collection of breach reports for case studies
 - [Cybercrime Police Raids](https://github.com/BushidoUK/Cybercrime-Police-Raids) - Collection of raids on cybercriminals by police for case studies
 - [UK Critical Infrastructure](https://github.com/BushidoUK/UK-Critical-Infrastructure) - Collection of case reports of attacks on UK CNI for case studies
+- [OPSEC 101](https://github.com/BushidoUK/Operational-Security-101) - A guide to better security for non-technical family, friends, and colleagues
 
 ![BushidoUK's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=BushidoUK&repo=Open-source-tools-for-CTI&show_icons=true&title_color=3996ff&icon_color=79ff97&text_color=fff&bg_color=151515)
 ![BushidoUK's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=BushidoUK&repo=Breach-Report-Collection&show_icons=true&title_color=3996ff&icon_color=79ff97&text_color=fff&bg_color=151515)
