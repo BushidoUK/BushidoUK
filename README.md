@@ -62,8 +62,9 @@
 | DEFCON29 | Blue Team Village Panel: Threat Report Roulette | [YouTube](https://www.youtube.com/watch?v=rUAhYiDn0M0) | n/a |
 | BeerCon3 | Hacking-As-A-Service: Becoming An APT Is Easier Than Ever! | [Website](https://thebeerfarmers.org/beercon3-a-game-of-pwns/) | [here](https://github.com/BushidoUK/BushidoUK/blob/master/Hacking-as-a-Service_BeerCon3.pdf) |
 | BeerCon4 | Practical Vulnerability Intelligence | [YouTube](https://www.youtube.com/watch?v=QG_KQooMoQw&t=3s) | [here](https://github.com/BushidoUK/BushidoUK/blob/master/Practical_Vuln_Intel_BeerCon4.pdf) |
-| BSides Cheltenham 2023 | They Can't Keep Getting Away With It: Analysis of ScatteredSpider/0ktapus campaigns | [YouTube](https://youtu.be/EkogMO9qioQ) | n/a |
-| BSides Basingstoke 2023 | CL0P Likes To MOVEit MOVEit | [YouTube](https://www.youtube.com/watch?v=PxvUc_ETqCc) | n/a |
+| BSides Cheltenham 2023 | They Can't Keep Getting Away With It: Analysis of ScatteredSpider/0ktapus campaigns | [YouTube](https://youtu.be/EkogMO9qioQ) | [here](https://github.com/BushidoUK/BushidoUK/blob/master/ScatteredSpider_0ktapus_Talk%20FINAL.pdf) |
+| BSides Basingstoke 2023 | CL0P Likes To MOVEit MOVEit | [YouTube](https://www.youtube.com/watch?v=PxvUc_ETqCc) | [here](https://github.com/BushidoUK/BushidoUK/blob/master/CL0P%20likes%20to%20MOVEit%20MOVEit%20FINAL.pdf) |
+| SANS CyberThreat23 | Practical Cybercrime Intelligence | n/a | [here](https://github.com/BushidoUK/BushidoUK/blob/master/Will_Thomas_Practical_Cybercrime_Intelligence_V2.pdf) |
 
 ## 🎤 Podcasts:
 
