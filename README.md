@@ -55,6 +55,7 @@
 ## 🎙 My Talks:
 
 | Conference | Talk Title | Recording URL | Slides |
+| --- | --- | --- | --- |
 | Undisclosed | Introduction to CTI Research | n/a | [here](https://github.com/BushidoUK/BushidoUK/blob/master/Introduction_To_CTI_Research.pdf) |
 | Undisclosed | Practical Adversary Intelligence | n/a | [here](https://github.com/BushidoUK/BushidoUK/blob/master/Practical_adversary_intelligence.pdf) |
 | Undisclosed | History of the Russian Intelligence Services and Hacking Campaigns | n/a | [here](https://github.com/BushidoUK/BushidoUK/blob/master/History%20of%20Russian%20Intelligence%20Services%20and%20Hacking%20Campaigns.pdf) |
