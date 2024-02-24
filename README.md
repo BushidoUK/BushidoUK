@@ -64,7 +64,7 @@
 | TMHC IsolationCon2 | Exploiting the Supply-Chain for Fun and Espionage | [Website](https://www.tmhcisolationcon.com/schedule/exploiting-the-supply-chain-for-fun-and-espionage/) | [here](https://github.com/BushidoUK/BushidoUK/blob/master/Supply-chain%20Espionage.pdf) |
 | DEFCON29 | Blue Team Village Panel: Threat Report Roulette | [YouTube](https://www.youtube.com/watch?v=rUAhYiDn0M0) | n/a |
 | BeerCon3 | Hacking-As-A-Service: Becoming An APT Is Easier Than Ever! | [Website](https://thebeerfarmers.org/beercon3-a-game-of-pwns/) | [here](https://github.com/BushidoUK/BushidoUK/blob/master/Hacking-as-a-Service_BeerCon3.pdf) |
-| NFCERT Annual Conference | Lessons from the Conti Leeks | n/a | [here](https://github.com/BushidoUK/BushidoUK/blob/master/Lessons%20from%20the%20Conti%20Leaks.pdf) |
+| NFCERT Annual Conference | Lessons from the Conti Leaks | n/a | [here](https://github.com/BushidoUK/BushidoUK/blob/master/Lessons%20from%20the%20Conti%20Leaks.pdf) |
 | BeerCon4 | Practical Vulnerability Intelligence | [YouTube](https://www.youtube.com/watch?v=QG_KQooMoQw&t=3s) | [here](https://github.com/BushidoUK/BushidoUK/blob/master/Practical_Vuln_Intel_BeerCon4.pdf) |
 | BSides Cheltenham 2023 | They Can't Keep Getting Away With It: Analysis of ScatteredSpider/0ktapus campaigns | [YouTube](https://youtu.be/EkogMO9qioQ) | [here](https://github.com/BushidoUK/BushidoUK/blob/master/ScatteredSpider_0ktapus_Talk%20FINAL.pdf) |
 | BSides Basingstoke 2023 | CL0P Likes To MOVEit MOVEit | [YouTube](https://www.youtube.com/watch?v=PxvUc_ETqCc) | [here](https://github.com/BushidoUK/BushidoUK/blob/master/CL0P%20likes%20to%20MOVEit%20MOVEit%20FINAL.pdf) |
