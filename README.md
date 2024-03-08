@@ -84,6 +84,7 @@
 | Intel471 Cybercrime Exposed | The Extortionists | [intel471.com](https://intel471.com/blog/cybercrime-exposed-podcast-the-extortionists) |
 | SANS Wait Just An Infosec | In Hot Pursuit: Tracking Ransomware Actors (from 13m 00s) | [linkedin.com](https://www.linkedin.com/events/inhotpursuit-trackingransomware7097598306159054848/comments/) |
 | SANS Threat Analysis Rundown (STAR) | Disccusing Threats from Week 43 of 2023 | [linkedin.com](https://www.linkedin.com/events/sansthreatanalysisrundown-star7116090847212834816/comments/) |
+| SANS Wait Just An Infosec | Ransomware Kingpins LockBit Disrupted | [YouTube](https://www.youtube.com/watch?v=Ith3IgY8on8) |
 
 ## 🏛️ My Government Features:
 
@@ -95,6 +96,7 @@
 ## 📰 My MSM & Tech News Features:
 
 - [CNN - LockBit attack on ICBC](https://edition.cnn.com/2023/11/10/tech/ransomware-attack-industrial-and-commercial-bank-of-china-financial-sector/index.html)
+- [Reuters - ALPHV/BlackCat Exit Scam](https://www.reuters.com/technology/cybersecurity/blackcat-ransomware-site-claims-it-was-seized-uk-law-enforcement-denies-being-2024-03-05/)
 - [The Telegraph - Royal Mail SMS phishing campaigns](https://www.telegraph.co.uk/news/2021/03/28/exclusive-police-losing-battle-against-gangs-behind-surge-scam/)
 - [The Telegraph - NB65 leverages Conti source code](https://archive.ph/OJQ9e#:~:text=William%20Thomas%2C%20a%20cybersecurity%20expert%20at%20Curated%20Intelligence%2C%20a%20research%20organisation%2C%20said%3A%20%E2%80%9CWe%20know%20NB65%20have%20made%20a%20modified%20version%20of%20Conti%20thanks%20to%20the%20sample%20on%20VirusTotal.%E2%80%9D)
 - [Vice Motherboard - Workers Unite](https://www.vice.com/en/article/7kvvbb/argyle-payroll-login-phishing)
@@ -103,8 +105,9 @@
 
 ## 🏢 My Infosec Vendor & Community Features:
 
-- 🎤 My Interview with TheSecurityNoob blog [here](https://thesecuritynoob.com/interviews/interview-with-security-researcher-speaker-will-thomas-bushidotoken/) 
-- 🔟 On the SOCRadar 'Top 10 Twitter Accounts to Follow for Threat Intelligence' [here](https://socradar.io/top-10-twitter-accounts-to-follow-for-threat-intelligence/)
+- 🎤 My Interview with TheSecurityNoob blog [here](https://thesecuritynoob.com/interviews/interview-with-security-researcher-speaker-will-thomas-bushidotoken/)
+- 1️⃣ Top of the 'Top 10 CTI Experts & Intelligence Pioneers' in 2024 [here](https://socradar.io/intelligence-pioneers-meet-the-top-10-cti-experts/)
+- 🔟 On the SOCRadar 'Top 10 Twitter Accounts to Follow for Threat Intelligence' in 2023 [here](https://socradar.io/top-10-twitter-accounts-to-follow-for-threat-intelligence/)
 - 🏅 On the SentinelOne '23 Influential Accounts to Follow in 2023' [here](https://www.sentinelone.com/blog/navigating-the-cybersecurity-twitterverse-23-influential-accounts-to-follow-in-2023/)
 - [Microsoft 365 Defender Threat Intelligence Team - Franken-phish](https://www.microsoft.com/security/blog/2021/10/21/franken-phish-todayzoo-built-from-other-phishing-kits/)
 - [Microsoft 365 Defender Threat Intelligence Team - The Conti Leaks](https://www.microsoft.com/security/blog/2022/06/01/using-python-to-unearth-a-goldmine-of-threat-intelligence-from-leaked-chat-logs/)
@@ -122,6 +125,7 @@
 
 ## 🗞️ My Infosec News Features:
 
+- [Bleeping Computer - Hunters International, potential Hive rebrand](https://www.bleepingcomputer.com/news/security/new-hunters-international-ransomware-possible-rebrand-of-hive/)
 - [Bleeping Computer - APT Targeting Renewable Energy](https://www.bleepingcomputer.com/news/security/cyber-espionage-campaign-targets-renewable-energy-companies/)
 - [Bleeping Computer - Basecamp](https://www.bleepingcomputer.com/news/security/hackers-now-abuse-basecamp-for-free-malware-hosting/)
 - [Bleeping Computer - North Koreans Targeting Researchers](https://www.bleepingcomputer.com/news/security/north-korean-hackers-are-targeting-security-researchers-with-malware-0-days/)
@@ -145,6 +149,7 @@
 - [CyberScoop - Breach Forums Takedown](https://cyberscoop.com/breachforums-arrest-cybercrime-underground/)
 - [CyberScoop - Genesis Market Seized](https://cyberscoop.com/fbi-seizure-genesis-market-cybercrime/)
 - [CyberScoop - UK Electoral Commission Breach](https://cyberscoop.com/u-k-election-admin-agency-servers-breach-exposed-voter-information-of-tens-of-millions/)
+- [CyberScoop - ALPHV/BlackCat Exit Scam](https://cyberscoop.com/ransomware-group-behind-change-healthcare-attack-goes-dark/)
 - [Risky Biz News - The Continuity of Conti](https://riskybiznews.substack.com/p/risky-biz-news-cyber-partisans-hack)
 - [Risky Biz News - Darth Maul Market](https://riskybiznews.substack.com/p/risky-biz-news-clarifying-the-dod)
 - [Risky Biz News - RedZei](https://riskybiznews.substack.com/p/risky-biz-news-slack-discloses-security)
@@ -154,8 +159,10 @@
 - [PortSwigger - North Koreans APTs](https://portswigger.net/daily-swig/prominent-cybersecurity-researchers-among-those-targeted-in-north-korean-hacking-campaign)
 - [DarkReading - RedZei](https://www.darkreading.com/attacks-breaches/chinese-redzei-victims-vishing)
 - [The Register - Conti attack on HSE](https://www.theregister.com/2021/05/14/ireland_hse_ransomware_hospital_conti_wizardspider/)
+- [The Register - CL0P campaigns against MFTs](https://www.theregister.com/2023/11/09/moveit_cybercriminals_behind_latest_sysaid/)
 - [Infosecurity Magazine - LockBit Claims TSMC Hack](https://www.infosecurity-magazine.com/news/lockbit-claims-tsmc-hack-70m-ransom/)
 - [Infosecurity Magazine - UK Electoral Commission Breach](https://www.infosecurity-magazine.com/news-features/electoral-commission-breach/)
+- [Infosecurity Magazine - iSOON Leaks](https://www.infosecurity-magazine.com/news-features/isoon-github-leak-chinese-cyber/)
 - [The Hacker News - TitanStealer](https://thehackernews.com/2023/01/titan-stealer-new-golang-based.html)
 - [The Hacker News - RedZei](https://thehackernews.com/2023/01/redzei-chinese-scammers-targeting.html)
 - [Security Affairs - Brute Ratel Cracked](https://securityaffairs.co/wordpress/136395/cyber-crime/brute-ratel-cracked-copy.html)
