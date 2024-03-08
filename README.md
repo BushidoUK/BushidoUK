@@ -155,6 +155,7 @@
 - [Risky Biz News - RedZei](https://riskybiznews.substack.com/p/risky-biz-news-slack-discloses-security)
 - [Risky Biz News - Raspberry Robin](https://riskybiznews.substack.com/p/risky-biz-news-facebook-takes-down)
 - [Risky Biz News - GreenMwizi](https://riskybiznews.substack.com/p/risky-biz-news-chinas-great-firewall)
+- [Risky Biz News - The DaVinci Group](https://news.risky.biz/risky-biz-news-crypto-fraud-is-now-bigger-than-bec/)
 - [Arstechnica - APT31](https://arstechnica.com/gadgets/2021/07/home-and-office-routers-come-under-attack-by-china-state-hackers-france-warns/)
 - [PortSwigger - North Koreans APTs](https://portswigger.net/daily-swig/prominent-cybersecurity-researchers-among-those-targeted-in-north-korean-hacking-campaign)
 - [DarkReading - RedZei](https://www.darkreading.com/attacks-breaches/chinese-redzei-victims-vishing)
