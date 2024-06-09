@@ -102,6 +102,7 @@
 - [Reuters - ALPHV/BlackCat Exit Scam](https://www.reuters.com/technology/cybersecurity/blackcat-ransomware-site-claims-it-was-seized-uk-law-enforcement-denies-being-2024-03-05/)
 - [The Telegraph - Royal Mail SMS phishing campaigns](https://www.telegraph.co.uk/news/2021/03/28/exclusive-police-losing-battle-against-gangs-behind-surge-scam/)
 - [The Telegraph - NB65 leverages Conti source code](https://archive.ph/OJQ9e#:~:text=William%20Thomas%2C%20a%20cybersecurity%20expert%20at%20Curated%20Intelligence%2C%20a%20research%20organisation%2C%20said%3A%20%E2%80%9CWe%20know%20NB65%20have%20made%20a%20modified%20version%20of%20Conti%20thanks%20to%20the%20sample%20on%20VirusTotal.%E2%80%9D)
+- [The Telegraph - Qilin Ransomware attack on the NHS](https://www.telegraph.co.uk/news/2024/06/05/inside-qilin-ransomware-gang-paralysed-nhs-hospitals-putin/)
 - [Vice Motherboard - Workers Unite](https://www.vice.com/en/article/7kvvbb/argyle-payroll-login-phishing)
 - [TechCrunch - Israel/Hamas War Hacktivism](https://techcrunch.com/2023/10/09/hacktivism-erupts-in-response-to-hamas-israel-war/)
 - [WIRED - Israel/Hamas War Hacktivism](https://www.wired.com/story/israel-hamas-war-hacktivism/)
