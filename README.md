@@ -113,6 +113,7 @@
 - [Vice Motherboard - Workers Unite](https://www.vice.com/en/article/7kvvbb/argyle-payroll-login-phishing)
 - [TechCrunch - Israel/Hamas War Hacktivism](https://techcrunch.com/2023/10/09/hacktivism-erupts-in-response-to-hamas-israel-war/)
 - [WIRED - Israel/Hamas War Hacktivism](https://www.wired.com/story/israel-hamas-war-hacktivism/)
+- [WIRED - Jia Tan & XZ Backdoor](https://www.wired.com/story/jia-tan-xz-backdoor/)
 
 ## 🏢 My Infosec Vendor & Community Features:
 
