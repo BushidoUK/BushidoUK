@@ -74,6 +74,13 @@
 | HexCon23 | The Dynamic Duo: When Russian and Western Cybercriminals Combine | n/a | [here](https://github.com/BushidoUK/BushidoUK/blob/master/The%20Dynamic%20Duo.pdf) |
 | SANS CyberThreat23 | Practical Cybercrime Intelligence | n/a | [here](https://github.com/BushidoUK/BushidoUK/blob/master/Will_Thomas_Practical_Cybercrime_Intelligence_V2.pdf) |
 
+## 👨‍🏫 My Workshops:
+
+| Conference | Workshop Title | URL |
+| --- | --- | --- | 
+| BSides London 2023 | Keep Your Enemies Closer: How to Profile and Track Threat Actors | [bsides-london-2023](https://pretalx.com/bsides-london-2023/talk/QHLC73/) |
+
+
 ## 🎤 Podcasts:
 
 | Podcast | Topic(s) | URL |
