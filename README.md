@@ -61,7 +61,7 @@
 | --- | --- | --- | --- |
 | Undisclosed | Introduction to CTI Research | n/a | [here](https://github.com/BushidoUK/BushidoUK/blob/master/Introduction_To_CTI_Research.pdf) |
 | Undisclosed | Practical Adversary Intelligence | n/a | [here](https://github.com/BushidoUK/BushidoUK/blob/master/Practical_adversary_intelligence.pdf) |
-| Undisclosed | History of the Russian Intelligence Services and Hacking Campaigns | n/a | [here](https://github.com/BushidoUK/BushidoUK/blob/master/History%20of%20Russian%20Intelligence%20Services%20and%20Hacking%20Campaigns.pdf) |
+| Bournemouth 2600 | History of the Russian Intelligence Services and Hacking Campaigns | [YouTube](https://www.youtube.com/watch?v=4-XiyfQFDZE&t=4s) | [here](https://github.com/BushidoUK/BushidoUK/blob/master/History%20of%20Russian%20Intelligence%20Services%20and%20Hacking%20Campaigns.pdf) |
 | conINT 2020 | Using Cyber Threat Intelligence to Defend against Ransomware | [YouTube](https://www.youtube.com/watch?v=QLz_6ghgNXA) | [here](https://github.com/BushidoUK/BushidoUK/blob/master/conINT2020%20FINAL.pdf) |
 | BeerCon2 | Gone Phishin' / Attack of the phish (something something phishing) | [YouTube](https://www.youtube.com/watch?v=REVItTHz2-c) | [here](https://github.com/BushidoUK/BushidoUK/blob/master/BeerCon2%20FINAL.pdf) |
 | TMHC IsolationCon2 | Exploiting the Supply-Chain for Fun and Espionage | [Website](https://www.tmhcisolationcon.com/schedule/exploiting-the-supply-chain-for-fun-and-espionage/) | [here](https://github.com/BushidoUK/BushidoUK/blob/master/Supply-chain%20Espionage.pdf) |
