@@ -72,7 +72,7 @@
 | BSides Cheltenham 2023 | They Can't Keep Getting Away With It: Analysis of ScatteredSpider/0ktapus campaigns | [YouTube](https://youtu.be/EkogMO9qioQ) | [here](https://github.com/BushidoUK/BushidoUK/blob/master/ScatteredSpider_0ktapus_Talk%20FINAL.pdf) |
 | BSides Basingstoke 2023 | CL0P Likes To MOVEit MOVEit | [YouTube](https://www.youtube.com/watch?v=PxvUc_ETqCc) | [here](https://github.com/BushidoUK/BushidoUK/blob/master/CL0P%20likes%20to%20MOVEit%20MOVEit%20FINAL.pdf) |
 | HexCon23 | The Dynamic Duo: When Russian and Western Cybercriminals Combine | [YouTube](https://www.youtube.com/watch?v=1dinuJRw23o) | [here](https://github.com/BushidoUK/BushidoUK/blob/master/The%20Dynamic%20Duo.pdf) |
-| SANS CyberThreat23 | Practical Cybercrime Intelligence | n/a | [here](https://github.com/BushidoUK/BushidoUK/blob/master/Will_Thomas_Practical_Cybercrime_Intelligence_V2.pdf) |
+| SANS CyberThreat23 | Practical Cybercrime Intelligence | [YouTube](https://youtu.be/MaQ4tY35nZc?si=hJAFiVadpccCoD9p) | [here](https://github.com/BushidoUK/BushidoUK/blob/master/Will_Thomas_Practical_Cybercrime_Intelligence_V2.pdf) |
 
 ## 👨‍🏫 My Workshops:
 
