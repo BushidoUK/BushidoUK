@@ -56,6 +56,7 @@
 ![Curated-Intel's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=curated-intel&repo=CTI-fundamentals&show_icons=true&title_color=3996ff&icon_color=79ff97&text_color=fff&bg_color=151515)
 
 ## 🎙 My Talks:
+- You can view all my videos via my [YouTube playlist](https://www.youtube.com/watch?v=MaQ4tY35nZc&list=PL3Dr-eQs6wGbg7Eh9RLrNh_5sAAfZJyRc&pp=gAQBiAQB)
 
 | Conference | Talk Title | Recording URL | Slides |
 | --- | --- | --- | --- |
