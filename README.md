@@ -23,22 +23,14 @@
 ## 🤖 My Projects:
 
 - [Open sources tools for CTI](https://github.com/BushidoUK/Open-source-tools-for-CTI/blob/master/README.md) - Collection of resources for OSINT analysis
-- [Exploring APT campaigns](https://github.com/BushidoUK/Exploring-APT-campaigns) - VirusTotal Graphs and Maltego Diagrams
 - [2x Insider Threat-themed CTFs](https://github.com/BushidoUK/The-Insider-Threat-CTF) - OSINT challenges
-- [Malware Zoo](https://github.com/BushidoUK/Malware-Zoo/blob/main/Need-to-know%20malware.csv)- Hashes of famous malware
-- [Open Source Malware](https://github.com/BushidoUK/Open-source-Malware/blob/main/GitHubMalware.csv)- Links to OSTs on GitHub
-- [OSINT Search Operators](https://github.com/BushidoUK/OSINT-SearchOperators)- Shodan Queries and Google Dorks
 - [CTI Lexicon](https://github.com/BushidoUK/CTI-Lexicon/blob/main/Lexicon.md)- Acronyms and Technical Jargon
 - [CTI Quiz](https://github.com/BushidoUK/CTI-Quiz/blob/main/README.md) - 4 Topics of Multiple Practice Questions
 - [Abuse Legitimate Services](https://github.com/BushidoUK/Abused-Legitimate-Services) - List of services used for malware and phishing
-- [Android Banking Trojan Nexus](https://github.com/BushidoUK/Android-Banking-Trojan-Nexus) - Centralised list of Android banking malware families
 - [Breach Report Collection](https://github.com/BushidoUK/Breach-Report-Collection) - Collection of breach reports for case studies
-- [Cybercrime Police Raids](https://github.com/BushidoUK/Cybercrime-Police-Raids) - Collection of raids on cybercriminals by police for case studies
-- [UK Critical Infrastructure](https://github.com/BushidoUK/UK-Critical-Infrastructure) - Collection of case reports of attacks on UK CNI for case studies
 - [OPSEC 101](https://github.com/BushidoUK/Operational-Security-101) - A guide to better security for non-technical family, friends, and colleagues
-- [YARA Rules](https://github.com/BushidoUK/YARA-Rules) - Repo of my various YARA Rules that can be used for Threat Research
-- [Python Projects](https://github.com/BushidoUK/Python-Projects) - Repo of my various Python Scripts that can be used for CTI
 - [The CTI Analyst Challenge](https://github.com/BushidoUK/CTI-Analyst-Challenge) - A training repository for CTI analysts to practice answering PIRs and RFIs
+- [The Ransomware Tool Matrix](https://github.com/BushidoUK/Ransomware-Tool-Matrix) - A repository of tools used by various ransomware gangs
 
 ![BushidoUK's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=BushidoUK&repo=Open-source-tools-for-CTI&show_icons=true&title_color=3996ff&icon_color=79ff97&text_color=fff&bg_color=151515)
 ![BushidoUK's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=BushidoUK&repo=Breach-Report-Collection&show_icons=true&title_color=3996ff&icon_color=79ff97&text_color=fff&bg_color=151515)
