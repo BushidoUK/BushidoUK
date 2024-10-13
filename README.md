@@ -51,23 +51,6 @@
 ## 🎙 My Talks:
 - You can view all my videos via my [YouTube playlist](https://www.youtube.com/watch?v=MaQ4tY35nZc&list=PL3Dr-eQs6wGbg7Eh9RLrNh_5sAAfZJyRc&pp=gAQBiAQB)
 
-| Conference | Talk Title | Recording URL | Slides |
-| --- | --- | --- | --- |
-| Undisclosed | Introduction to CTI Research | n/a | [here](https://github.com/BushidoUK/BushidoUK/blob/master/Introduction_To_CTI_Research.pdf) |
-| Undisclosed | Practical Adversary Intelligence | n/a | [here](https://github.com/BushidoUK/BushidoUK/blob/master/Practical_adversary_intelligence.pdf) |
-| Bournemouth 2600 | History of the Russian Intelligence Services and Hacking Campaigns | [YouTube](https://www.youtube.com/watch?v=4-XiyfQFDZE&t=4s) | [here](https://github.com/BushidoUK/BushidoUK/blob/master/History%20of%20Russian%20Intelligence%20Services%20and%20Hacking%20Campaigns.pdf) |
-| conINT 2020 | Using Cyber Threat Intelligence to Defend against Ransomware | [YouTube](https://www.youtube.com/watch?v=QLz_6ghgNXA) | [here](https://github.com/BushidoUK/BushidoUK/blob/master/conINT2020%20FINAL.pdf) |
-| BeerCon2 | Gone Phishin' / Attack of the phish (something something phishing) | [YouTube](https://www.youtube.com/watch?v=REVItTHz2-c) | [here](https://github.com/BushidoUK/BushidoUK/blob/master/BeerCon2%20FINAL.pdf) |
-| TMHC IsolationCon2 | Exploiting the Supply-Chain for Fun and Espionage | n/a [Website](https://www.tmhcisolationcon.com/schedule/exploiting-the-supply-chain-for-fun-and-espionage/) | [here](https://github.com/BushidoUK/BushidoUK/blob/master/Supply-chain%20Espionage.pdf) |
-| DEFCON29 | Blue Team Village Panel: Threat Report Roulette | [YouTube](https://www.youtube.com/watch?v=rUAhYiDn0M0) | n/a |
-| BeerCon3 | Hacking-As-A-Service: Becoming An APT Is Easier Than Ever! | n/a [Website](https://thebeerfarmers.org/beercon3-a-game-of-pwns/) | [here](https://github.com/BushidoUK/BushidoUK/blob/master/Hacking-as-a-Service_BeerCon3.pdf) |
-| NFCERT Annual Conference | Lessons from the Conti Leaks | n/a | [here](https://github.com/BushidoUK/BushidoUK/blob/master/Lessons%20from%20the%20Conti%20Leaks.pdf) |
-| BeerCon4 | Practical Vulnerability Intelligence | [YouTube](https://www.youtube.com/watch?v=QG_KQooMoQw&t=3s) | [here](https://github.com/BushidoUK/BushidoUK/blob/master/Practical_Vuln_Intel_BeerCon4.pdf) |
-| BSides Cheltenham 2023 | They Can't Keep Getting Away With It: Analysis of ScatteredSpider/0ktapus campaigns | [YouTube](https://youtu.be/EkogMO9qioQ) | [here](https://github.com/BushidoUK/BushidoUK/blob/master/ScatteredSpider_0ktapus_Talk%20FINAL.pdf) |
-| BSides Basingstoke 2023 | CL0P Likes To MOVEit MOVEit | [YouTube](https://www.youtube.com/watch?v=PxvUc_ETqCc) | [here](https://github.com/BushidoUK/BushidoUK/blob/master/CL0P%20likes%20to%20MOVEit%20MOVEit%20FINAL.pdf) |
-| HexCon23 | The Dynamic Duo: When Russian and Western Cybercriminals Combine | [YouTube](https://www.youtube.com/watch?v=1dinuJRw23o) | [here](https://github.com/BushidoUK/BushidoUK/blob/master/The%20Dynamic%20Duo.pdf) |
-| SANS CyberThreat23 | Practical Cybercrime Intelligence | [YouTube](https://youtu.be/MaQ4tY35nZc?si=hJAFiVadpccCoD9p) | [here](https://github.com/BushidoUK/BushidoUK/blob/master/Will_Thomas_Practical_Cybercrime_Intelligence_V2.pdf) |
-
 ## 👨‍🏫 My Workshops:
 
 | Conference | Workshop Title | URL |
