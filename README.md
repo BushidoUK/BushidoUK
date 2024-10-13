@@ -51,6 +51,9 @@
 ## 🎙 My Talks:
 - You can view all my videos via my [YouTube playlist](https://www.youtube.com/watch?v=MaQ4tY35nZc&list=PL3Dr-eQs6wGbg7Eh9RLrNh_5sAAfZJyRc&pp=gAQBiAQB)
 
+![image](https://github.com/user-attachments/assets/326447ac-8135-4b4c-8e12-634afa34f64e)
+
+
 ## 👨‍🏫 My Workshops:
 
 | Conference | Workshop Title | URL |
