@@ -24,7 +24,7 @@
 
 - [Open sources tools for CTI](https://github.com/BushidoUK/Open-source-tools-for-CTI/blob/master/README.md) - Collection of resources for OSINT analysis
 - [2x Insider Threat-themed CTFs](https://github.com/BushidoUK/The-Insider-Threat-CTF) - OSINT challenges
-- [CTI Lexicon](https://github.com/BushidoUK/CTI-Lexicon/blob/main/Lexicon.md)- Acronyms and Technical Jargon
+- [CTI Lexicon](https://github.com/BushidoUK/CTI-Lexicon)- Acronyms and Technical Jargon
 - [CTI Quiz](https://github.com/BushidoUK/CTI-Quiz/blob/main/README.md) - 4 Topics of Multiple Practice Questions
 - [Abuse Legitimate Services](https://github.com/BushidoUK/Abused-Legitimate-Services) - List of services used for malware and phishing
 - [Breach Report Collection](https://github.com/BushidoUK/Breach-Report-Collection) - Collection of breach reports for case studies
