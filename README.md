@@ -32,6 +32,7 @@
 - [The CTI Analyst Challenge](https://github.com/BushidoUK/CTI-Analyst-Challenge) - A training repository for CTI analysts to practice answering PIRs and RFIs
 - [The Ransomware Tool Matrix](https://github.com/BushidoUK/Ransomware-Tool-Matrix) - A repository of tools used by various ransomware gangs
 - [The Russian APT Tool Matrix](https://github.com/BushidoUK/Russian-APT-Tool-Matrix) - A repository of tools used by various Russian APT groups
+- [The Ransomware Vulnerability Matrix](https://github.com/BushidoUK/Ransomware-Vulnerability-Matrix/) - A repository of vulnerabilities exploited by various ransomware gangs
 
 ![BushidoUK's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=BushidoUK&repo=Open-source-tools-for-CTI&show_icons=true&title_color=3996ff&icon_color=79ff97&text_color=fff&bg_color=151515)
 ![BushidoUK's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=BushidoUK&repo=Breach-Report-Collection&show_icons=true&title_color=3996ff&icon_color=79ff97&text_color=fff&bg_color=151515)
