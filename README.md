@@ -33,6 +33,7 @@
 - [The Ransomware Tool Matrix](https://github.com/BushidoUK/Ransomware-Tool-Matrix) - A repository of tools used by various ransomware gangs
 - [The Russian APT Tool Matrix](https://github.com/BushidoUK/Russian-APT-Tool-Matrix) - A repository of tools used by various Russian APT groups
 - [The Ransomware Vulnerability Matrix](https://github.com/BushidoUK/Ransomware-Vulnerability-Matrix/) - A repository of vulnerabilities exploited by various ransomware gangs
+- [MITRE ATT&CK Mappings](https://github.com/BushidoUK/MITRE-Mappings/) - A repository of TTPs from OSINT reports mapped to the ATT&CK
 
 ![BushidoUK's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=BushidoUK&repo=Open-source-tools-for-CTI&show_icons=true&title_color=3996ff&icon_color=79ff97&text_color=fff&bg_color=151515)
 ![BushidoUK's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=BushidoUK&repo=Breach-Report-Collection&show_icons=true&title_color=3996ff&icon_color=79ff97&text_color=fff&bg_color=151515)
