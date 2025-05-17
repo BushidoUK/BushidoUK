@@ -9,16 +9,16 @@
 
 ## 👋 Intro:
 
-- 🔭 I’m a Security Researcher working in Cyber Threat Intelligence since 2019
+- 🔭 I’ve been working in the Cyber Threat Intelligence & Threat Hunting since 2019
 - 🎓 BSc (Hons) Graduate of Computer and Information Security
 - 📜 Student of SANS FOR578 and earned the GIAC GCTI certification
 - 📝 [Co-Author and Instructor](https://www.sans.org/profiles/will-thomas/) of the [SANS FOR589 Cybercrime Intelligence](https://www.sans.org/blog/for589-cybercrime-intelligence/) course
 - 👉 Read about my first year in CTI [here](https://blog.bushidotoken.net/2020/08/my-first-year-in-cyber-threat.html)
-- ⚡ Fun fact: I discovered [OZH RAT](https://malpedia.caad.fkie.fraunhofer.de/details/win.ozh_rat) and [TitanStealer](https://malpedia.caad.fkie.fraunhofer.de/details/win.titan_stealer)
-- 🕵️‍♂️ I've contributed to the Mitre ATT&CK framework - [TeamTNT](https://attack.mitre.org/groups/G0139/) & [SEO Poisoning](https://attack.mitre.org/techniques/T1608/006/)
+- 🕵️‍♂️ I've contributed to the MITRE ATT&CK framework - [TeamTNT](https://attack.mitre.org/groups/G0139/) & [SEO Poisoning](https://attack.mitre.org/techniques/T1608/006/)
 - 📚 I create my own Hacker Fiction stories (with a little help from AI) [here](https://hackerfiction.medium.com/)
-- 💻 Previously worked for Cyjax, read my Research Blogs [here](https://www.cyjax.com/author/will/)
-- 🌐 Currently working at the Equinix Threat Analysis Center (ETAC)
+- 💻 Previously worked for Cyjax as a CTI Researcher, read my Research Blogs [here](https://www.cyjax.com/resources/blog/author/william-thomas/)
+- 🌐 Previously worked at the Equinix Threat Analysis Center (ETAC) as a CTI Researcher and Threat Hunting Program Lead
+- 🛜 Currently working at Team Cymru as a Senior Threat Intelligence Advisor
 
 ## 🤖 My Projects:
 
