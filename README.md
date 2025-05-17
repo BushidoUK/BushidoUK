@@ -46,6 +46,7 @@
 - [Curated Intel: CTI Fundamentals](https://github.com/curated-intel/CTI-fundamentals) - A collection of essential resources related to CTI theory
 - [Curated Intel: MOVEit Transfer Campaign Tracking](https://github.com/curated-intel/MOVEit-Transfer) - Tracking events related to the MOVEit campaign
 - [Curated Intel: Threat Actor Profile Guide](https://github.com/curated-intel/Threat-Actor-Profile-Guide) - A guide for CTI analysts
+- [Curated Intel: Attribution to IP](https://github.com/curated-intel/Attribution-to-IP) - A way to find out who owns an IP address
 
 ![Curated-Intel's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=curated-intel&repo=Ukraine-Cyber-Operations&show_icons=true&title_color=3996ff&icon_color=79ff97&text_color=fff&bg_color=151515)
 ![Curated-Intel's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=curated-intel&repo=CTI-fundamentals&show_icons=true&title_color=3996ff&icon_color=79ff97&text_color=fff&bg_color=151515)
