@@ -56,6 +56,12 @@
 
 ![image](https://github.com/user-attachments/assets/326447ac-8135-4b4c-8e12-634afa34f64e)
 
+## 🎤 My Interviews:
+
+| Media Org | Theme | URL |
+| --- | --- | --- | 
+| BankInfoSecurity | Help Desk Hoax: How Attackers Bypass Tech Defenses | [bankinfosecurity.com](https://www.bankinfosecurity.com/help-desk-hoax-how-attackers-bypass-tech-defenses-a-28638) |
+| Infosecurity Magazine | #Infosec2025: How to Defend Against Scattered Spider | [infosecurity-magazine.com](https://www.infosecurity-magazine.com/interviews/infosec2025-how-defend-against/) | 
 
 ## 👨‍🏫 My Workshops:
 
