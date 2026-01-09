@@ -80,6 +80,7 @@
 | Darknet Diaries #126 | REvil Ransomware | [darknetdiaries.com](https://darknetdiaries.com/episode/126/) |
 | Click Here by Recorded Future News | Breach Forums Takedown | [twitter.com/ClickHereShow](https://twitter.com/ClickHereShow/status/1641468576275238912?s=20) |
 | MyOSINT Training | Part of the ["Careers Using OSINT Skills"](https://www.myosint.training/courses/careers-using-osint-skills) series | [YouTube](https://www.youtube.com/watch?v=-mHAOUn09RE) |
+| Infosecurity Magazine | How 2025 Shaped the Future of Cybersecurity | [infosecurity-magazine.com](https://www.infosecurity-magazine.com/podcasts/how-2025-shaped-future/) |
 | Infosecurity Magazine | Inside the MOVEit Attack: Decrypting Clop's TTPs and Empowering Cybersecurity Practitioners (from 16m 21s) | [infosecurity-magazine.com](https://www.infosecurity-magazine.com/podcasts/infosec-mag-pod-july-2023/) |
 | Intel471 Cybercrime Exposed | The Extortionists | [intel471.com](https://intel471.com/blog/cybercrime-exposed-podcast-the-extortionists) |
 | SANS Wait Just An Infosec | In Hot Pursuit: Tracking Ransomware Actors (from 13m 00s) | [youtube.com](https://www.youtube.com/live/36zAIipPDJ0?si=AcbT2CLjXGFeZuUl) |
