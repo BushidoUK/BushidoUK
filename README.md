@@ -33,9 +33,6 @@
 - [The Ransomware Vulnerability Matrix](https://github.com/BushidoUK/Ransomware-Vulnerability-Matrix/) - A repository of vulnerabilities exploited by various ransomware gangs
 - [MITRE ATT&CK Mappings](https://github.com/BushidoUK/MITRE-Mappings/) - A repository of TTPs from OSINT reports mapped to the ATT&CK
 
-![BushidoUK's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=BushidoUK&repo=Open-source-tools-for-CTI&show_icons=true&title_color=3996ff&icon_color=79ff97&text_color=fff&bg_color=151515)
-![BushidoUK's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=BushidoUK&repo=Breach-Report-Collection&show_icons=true&title_color=3996ff&icon_color=79ff97&text_color=fff&bg_color=151515)
-
 ## 🌐 My Community Projects:
 
 - [EternalLiberty](https://github.com/StrangerealIntel/EternalLiberty) - APT moniker database
@@ -45,9 +42,6 @@
 - [Curated Intel: MOVEit Transfer Campaign Tracking](https://github.com/curated-intel/MOVEit-Transfer) - Tracking events related to the MOVEit campaign
 - [Curated Intel: Threat Actor Profile Guide](https://github.com/curated-intel/Threat-Actor-Profile-Guide) - A guide for CTI analysts
 - [Curated Intel: Attribution to IP](https://github.com/curated-intel/Attribution-to-IP) - A way to find out who owns an IP address
-
-![Curated-Intel's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=curated-intel&repo=Ukraine-Cyber-Operations&show_icons=true&title_color=3996ff&icon_color=79ff97&text_color=fff&bg_color=151515)
-![Curated-Intel's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=curated-intel&repo=CTI-fundamentals&show_icons=true&title_color=3996ff&icon_color=79ff97&text_color=fff&bg_color=151515)
 
 ## 🎙 My Talks:
 - You can view all my videos via my [YouTube playlist](https://www.youtube.com/watch?v=MaQ4tY35nZc&list=PL3Dr-eQs6wGbg7Eh9RLrNh_5sAAfZJyRc&pp=gAQBiAQB)
