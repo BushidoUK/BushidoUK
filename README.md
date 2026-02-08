@@ -8,7 +8,7 @@
 ## 👋 Intro:
 
 - 🔭 I’ve been working in the Cyber Threat Intelligence & Threat Hunting since 2019
-- 🎓 BSc (Hons) Graduate of Computer and Information Security
+- 🎓 BSc (Hons) Graduate of Computer and Information Security - 2016-2019
 - 📜 Student of SANS FOR578 and earned the GIAC GCTI certification
 - 📝 [Co-Author and Instructor](https://www.sans.org/profiles/will-thomas/) of the [SANS FOR589 Cybercrime Intelligence](https://www.sans.org/blog/for589-cybercrime-intelligence/) course
 - 👉 Read about my first year in CTI [here](https://blog.bushidotoken.net/2020/08/my-first-year-in-cyber-threat.html)
