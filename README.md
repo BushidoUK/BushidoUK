@@ -60,6 +60,7 @@
 | Conference | Workshop Title | URL |
 | --- | --- | --- | 
 | BSides London 2023 | Keep Your Enemies Closer: How to Profile and Track Threat Actors | [bsides-london-2023](https://pretalx.com/bsides-london-2023/talk/QHLC73/) |
+| BSides London 2025 | Threat Actors: Gotta Catch Them All | [bsides-london-2025](https://cfp.bsides.london/bsides-london-2025/talk/H7QDCH/) |
 
 
 ## 🎤 Podcasts:
